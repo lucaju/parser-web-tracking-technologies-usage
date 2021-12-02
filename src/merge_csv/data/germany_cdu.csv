@@ -1,0 +1,100 @@
+,Name,Categories,Description,Tag,FirstDetected,LastDetected,IsPremium,Link,Parent
+0,jQuery Once,['jQuery Plugin'],Filters out all elements that had the same filter applied on them before. ,javascript,1379631600000,1636268400000,no,http://plugins.jquery.com/once/,jQuery
+1,Comodo SSL,['Root Authority'],Certificate provided by Comodo.,ssl,1373497200000,1621148400000,no,http://comodo.com,
+2,YouTube IFrame Upload,,Lets users upload videos to YouTube from any webpage.,widgets,1371250800000,1374274800000,no,http://developers.google.com/youtube/youtube_upload_widget,
+3,Content Delivery Network,,This page contains links that give the impression that some of the site contents are stored on a content delivery network.,CDN,1369144800000,1636444800000,no,http://en.wikipedia.org/wiki/Content_Delivery_Network,
+4,Drupal,['Open Source'],An engine suitable to setup or build a content driven or community driven website. Modular design allows flexibility in design.,cms,1367676000000,1636268400000,no,http://www.drupal.org,
+5,Facebook Like,['Social Sharing'],"Allows users to Like items they find on the web, similar to how you Like items within Facebook.",widgets,1367676000000,1518735600000,no,http://developers.facebook.com/docs/reference/plugins/like,
+6,jQuery QTip,,qTip is an advanced tooltip plugin for the ever popular jQuery JavaScript framework.,javascript,1362056400000,1480633200000,no,http://craigsworks.com/projects/qtip/,jQuery
+7,jQuery ScrollTo,"['jQuery Plugin', 'UI']",An overloaded scrolling function for jquery.,javascript,1367676000000,1427238000000,no,https://github.com/flesler/jquery.scrollTo,jQuery
+8,jQuery UI,"['jQuery Plugin', 'UI']","jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",javascript,1367676000000,1636268400000,no,http://jqueryui.com/,jQuery
+9,jQuery Cookie,['jQuery Plugin'],"A simple, lightweight jQuery plugin for reading, writing and deleting cookies.",javascript,1367676000000,1636268400000,no,https://github.com/carhartl/jquery-cookie,jQuery
+10,jQuery Form,['jQuery Plugin'],jQuery Form Plugin allows you to easily and unobtrusively upgrade HTML forms to use AJAX.,javascript,1367676000000,1636182000000,no,http://jquery.malsup.com/form/,jQuery
+11,jQuery UI Tabs,"['jQuery Plugin', 'UI']",Support tabs interfaces using the JQuery library,javascript,1367676000000,1636182000000,no,http://docs.jquery.com/UI/Tabs,jQuery
+12,jQuery Autocomplete,,"Autocomplete an input field to enable users quickly finding and selecting some value, leveraging searching and filtering.",javascript,1362056400000,1636268400000,no,http://docs.jquery.com/Plugins/autocomplete,jQuery
+13,jQuery Colorbox,['jQuery Plugin'],"A light-weight, customizable lightbox plugin for jQuery.",javascript,1367676000000,1636268400000,no,http://colorpowered.com/colorbox/,jQuery
+14,html5shiv,['Compatibility'],HTML5 IE enabling script shim.,javascript,1367676000000,1636268400000,no,https://github.com/afarkas/html5shiv,
+15,Google Analytics Anonymize IP,,Tell Google Analytics to anonymize the information sent by the tracker objects by removing the last octet of the IP address prior to its storage.,analytics,1362056400000,1587855600000,no,http://code.google.com/apis/analytics/docs/gaJS/gaJSApi_gat.html,Google Analytics
+16,Google Analytics,"['Application Performance', 'Audience Measurement', 'Visitor Count Tracking']",Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.,analytics,1364302800000,1635922800000,no,http://google.com/analytics,
+17,Vignette OpenText,['Enterprise'],OpenText enterprise content management (ECM) solutions have been deployed by organizations in virtually every industry and every level of government worldwide. Formally known as Vignette and encompassing RedDot CMS.,cms,1156402800000,1371942000000,yes,http://www.vignette.com/,
+18,SWFObject,,SWFObject is a small Javascript file used for embedding Adobe Flash content. The script can detect the Flash plug-in in all major web browsers (on Mac and PC) and is designed to make embedding Flash movies as easy as possible.,javascript,1254639600000,1635922800000,no,http://blog.deconcept.com/swfobject/,
+19,jQuery,['JavaScript Library'],"JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",javascript,1254639600000,1636268400000,no,http://jquery.com,jQuery
+20,RSS,,"A family of web feed formats used to publish frequently updated content such as blog entries, news headlines or podcasts.",feeds,1128668400000,1636182000000,no,http://en.wikipedia.org/wiki/RSS_(file_format),
+21,ETracker,['Audience Measurement'],Web Tracking Software from Germany,analytics,1223103600000,1365080400000,yes,http://www.etracker.de,
+22,SPF,,The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.,mx,1397084400000,1636444800000,no,http://www.openspf.org/,
+23,Facebook Like Button,,The code to implement a Facebook Like Button on the page.,widgets,1399503600000,1518735600000,no,http://developers.facebook.com/docs/reference/plugins/like/,
+24,Twitter Timeline,,"Add your tweets, favourites or searches as a timeline to the website.",widgets,1399503600000,1634022000000,no,http://twitter.com/settings/widgets,
+25,YouTube,"['Live Stream / Webcast', 'Online Video Platform', 'Social Video Platform']",Embedded videos from YouTube.,media,1223103600000,1636268400000,no,http://youtube.com,
+26,Twitter Platform,,The page embeds the Twitter platform in one method or another.,javascript,1399503600000,1636182000000,no,http://twitter.com/about/resources,
+27,ReadSpeaker,,Online text to speech application.,widgets,1402873200000,1616886000000,maybe,http://readspeaker.com,
+28,Uniform,['jQuery Plugin'],Uniform masks your standard form controls with custom themed controls.,javascript,1404691200000,1636182000000,no,http://uniformjs.com/,
+29,Apple Mobile Web Clips Icon,,"This page contains an icon for iPhone, iPad and iTouch devices.",mobile,1417042800000,1636444800000,no,http://developer.apple.com/library/iOS/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html,
+30,Viewport Meta,,This page uses the viewport meta tag which means the content may be optimized for mobile content.,mobile,1417042800000,1636444800000,no,https://developers.google.com/speed/docs/insights/ConfigureViewport,
+31,Hover Intent,['UI'],"hoverIntent is a plug-in that attempts to determine the user's intent. It works like (and was derived from) jQuery's built-in hover. However, instead of immediately calling the onMouseOver function, it waits until the user's mouse slows down enough before making the call.",javascript,1417820400000,1636182000000,no,http://cherne.net/brian/resources/jquery.hoverIntent.html,
+32,Facebook SDK,," JavaScript SDK enables you to access all of the features of the Graph API via JavaScript, and it provides a rich set of client-side functionality for authentication and sharing. It differs from Facebook Connect.",javascript,1417820400000,1635922800000,no,http://developers.facebook.com/docs/reference/javascript/,
+33,Facebook Embedded Posts,['Social Sharing'],Embedded Posts are a way to put public posts - by a Page or a person on Facebook - into the content of a web site.,widgets,1417820400000,1418079600000,no,https://developers.facebook.com/docs/plugins/embedded-posts/,
+34,Facebook for Websites,,Allows a user to make a website more sociable and connected with integrations from the hugely popular Facebook website.,javascript,1417820400000,1636182000000,no,http://developers.facebook.com/,
+35,SuperFish Menu,,Superfish is an enhanced Suckerfish-style menu jQuery plugin that takes an existing pure CSS drop-down menus and adds much-sought-after enhancements.,javascript,1417820400000,1636182000000,no,http://users.tpg.com.au/j_birch/plugins/superfish/,
+36,jQuery bgiframe,"['Compatibility', 'jQuery Plugin']",Fixes z-index issues in IE6.,javascript,1417820400000,1636182000000,no,http://docs.jquery.com/Plugins/bgiframe,jQuery
+37,Twitter CDN,,"This page contains content sourced from the Twitter CDN, either by the use of Widgets or linking to image content on twimg.com currently hosted by Akamai and Amazon.",cdn,1418338800000,1614758400000,no,http://twitter.com,
+38,Drupal Version 7.3x,,Version 7.3x of Drupal,cms,1429743600000,1444690800000,no,http://drupal.org,Drupal
+39,Mobile Optimized,,Microsoft invented the MobileOptimized META tag to control the layout width for mobile markup rendered in Internet Explorer Mobile.,mobile,1435736098608,1636268400000,no,http://msdn.microsoft.com/en-us/library/bb159711.aspx,
+40,jQuery Cycle,['jQuery Plugin'],A slideshow plugin for JQuery that supports many different types of transition effects.,javascript,1435736098608,1636182000000,no,http://jquery.malsup.com/cycle/,jQuery
+41,matchMedia,['Compatibility'],matchMedia polyfill for testing media queries in JS.,javascript,1435736098608,1636268400000,no,http://github.com/paulirish/matchMedia.js/,
+42,SSL by Default,,The website redirects traffic to an HTTPS/SSL version by default.,ssl,1435791600000,1636444800000,no,http://trends.builtwith.com/ssl,
+43,Google Analytics Classic,,Classic Google Analytics - sites that are using non-universal analytics code.,analytics,1443654000000,1587855600000,no,https://developers.google.com/analytics/devguides/collection/gajs/,Google Analytics
+44,Drupal Version 7.4x,,Version 7.4x of Drupal,cms,1445468400000,1467846000000,no,http://drupal.org,Drupal
+45,Facebook Domain Insights,['Social Management'],This website contains tracking information that allows admins to see Facebook Insights out of Facebook to this domain.,analytics,1454972400000,1636268400000,no,http://www.facebook.com/insights/,
+46,Accelerated Mobile Pages,['Mobile'],Accelerated Mobile Pages (AMP) Project is an open source initiative that embodies the vision that publishers can create mobile optimized content once and have it load instantly everywhere.,widgets,1461193200000,1629356400000,no,https://amp.dev,
+47,Modernizr,['Compatibility'],Modernizr allows you to target specific browser functionality in your stylesheet.,javascript,1463007600000,1636182000000,no,http://www.modernizr.com,
+48,Deutsche Telekom,['German hosting'],Network infrastructure from Deutsche Telekom based in Germany.,hosting,1467068400000,1609455600000,no,http://t-mobile.net,
+49,jQuery Custom Content Scroller,,Custom scrollbar plugin that’s fully customizable with CSS. ,javascript,1481065200000,1636182000000,no,http://manos.malihu.gr/jquery-custom-content-scroller/,jQuery
+50,Smart App Banner,['Mobile'],"Displays a banner that provides a direct link to an Apple Store app, or opens the app if the user already has it installed.",widgets,1481756400000,1636268400000,no,https://developer.apple.com/news/index.php?id=10082012b,
+51,Facebook Sharer,,Share this page on Facebook using a deprecated sharing syntax.,widgets,1488409200000,1636182000000,no,http://www.facebook.com/facebook-widgets/share.php,
+52,Google Universal Analytics,,"The analytics.js JavaScript snippet is a new way to measure how users interact with your website. It is similar to the previous Google tracking code, ga.js, but offers more flexibility for developers to customize their implementations.",analytics,1494543600000,1635922800000,no,https://developers.google.com/analytics/devguides/collection/analyticsjs/,Google Analytics
+53,German,,Website content is written in German.,language,1496271600000,1636444800000,no,http://de.wikipedia.org,
+54,WhatsApp,,WhatsApp protocol links and SMS API.,widgets,1497135600000,1636182000000,no,https://www.whatsapp.com,
+55,jPlayer,,jPlayer allows you to embed cross platform audio and video into your web pages.,media,1503010800000,1629356400000,no,http://jplayer.org/,
+56,SoundCloud,,SoundCloud is a platform that puts sound at the heart of communities and websites.,media,1503529200000,1629356400000,no,http://soundcloud.com/,
+57,WebEx Panel,,WebEx system.,widgets,1519858800000,1591052400000,no,http://webex.com,
+58,IPhone / Mobile Compatible,,The website contains code that allows the page to support IPhone / Mobile Content.,mobile,1526338800000,1636444800000,no,http://apple.com,
+59,Matomo,"['Audience Measurement', 'Conversion Optimization', 'Site Optimization']","Matomo is an open source web analytics software. It gives interesting reports on your website visitors, your popular pages, the search engines keywords they used, the language they speak and so much more. Previously known as Piwik Web Analytics.",analytics,1526338800000,1636444800000,no,http://matomo.org,
+60,GStatic Google Static Content,,Google has off-loaded static content (Javascript/Images/CSS) to a different domain name in an effort to reduce bandwidth usage and increase network performance for the end user.,cdn,1526943600000,1609228800000,no,https://google.com,
+61,Pound Sterling,['Currency'],The website uses the £ symbol on its website - meaning it may accept payment in this British currency.,payment,1537225200000,1614844800000,no,https://en.wikipedia.org/wiki/Pound_sign,
+62,Impressum,,This page has a link to an 'Impressum' page which is required under German law for German websites.,link,1559430000000,1636444800000,no,https://kb.builtwith.com/special-reports/link-tracking/,
+63,mod_pagespeed,,mod_pagespeed is an open-source Apache module that automatically optimizes web pages and resources on them.,Server,1570575600000,1636268400000,no,https://developers.google.com/speed/pagespeed/mod,
+64,Common Name Invalid,,The Common Name/SAN value of this websites SSL certificate does not correspond to the domain name.,ssl,1570575600000,1591052400000,no,https://www.leaderssl.com/articles/388-common-name-mismatch-error-effective-ways-to-solve-a-problem,
+65,EU VAT Registration,['VAT Registration'],This website has an EU VAT Registration listed on it.,widgets,1573945200000,1634972400000,no,https://europa.eu/youreurope/business/taxation/vat/index_en.htm,
+66,Facebook CDN,,This page has content that links to the Facebook content delivery network.,cdn,1574290800000,1614758400000,no,http://www.facebook.com,
+67,jQuery Countdown,['jQuery Plugin'],A jQuery plugin that sets a div or span to show a countdown to a given time.,javascript,1574290800000,1574290800000,no,http://keith-wood.name/countdown.html,jQuery
+68,jQuery 1.7,,jQuery version 1.7,javascript,1574290800000,1636268400000,no,https://code.jquery.com/jquery/,jQuery
+69,imagesLoaded,,jQuery plugin for seeing if the images are loaded.,javascript,1574290800000,1635058800000,no,https://github.com/desandro/imagesloaded,
+70,jQuery Masonry,['UI'],Masonry is a layout plugin for jQuery. Think of it as the flip side of CSS floats.,javascript,1574290800000,1635922800000,no,http://desandro.com/resources/jquery-masonry/,jQuery
+71,Font Awesome,['Fonts'],Iconic font and CSS toolkit.,widgets,1574290800000,1636444800000,no,http://fontawesome.io,
+72,Fizzy UI Utils,,UI utilities & helpers,javascript,1574290800000,1635922800000,no,https://github.com/metafizzy/fizzy-ui-utils,
+73,COVID-19,,This website mentions COVID-19 / Novel Coronavirus.,widgets,1584140400000,1635922800000,no,https://www.who.int/emergencies/diseases/novel-coronavirus-2019,
+74,LetsEncrypt,['Root Authority'],Let’s Encrypt is a free open Certificate Authority.,ssl,1588114800000,1636444800000,no,https://letsencrypt.org,
+75,Microsoft Azure DNS,,This domain is verified with Microsoft Azure.,mx,1589583600000,1636444800000,no,http://windowsazure.com,
+76,Germany VAT Registration,['VAT Registration'],This website has a EU VAT Registration ID based in Germany.,widgets,1593039600000,1634972400000,no,https://europa.eu/youreurope/business/taxation/vat/index_en.htm,EU VAT Registration
+77,SendinBlue,['Marketing Platform'],"Marketing campaigns, Transactional Emails, and SMS messages all in one platform.",mx,1593903600000,1636444800000,yes,http://www.sendinblue.com,
+78,DMARC,['DMARC'],A technical specification created by a group of organizations that want to help reduce the potential for email-based abuse,mx,1593903600000,1636268400000,no,http://www.dmarc.org,
+79,PHP,,PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.,framework,1591052400000,1633158000000,no,http://www.php.net,
+80,YouTube Privacy Enchanced,,Contains YouTube no cookie content.,media,1603494000000,1636182000000,no,https://youtube.com,
+81,DoubleClick.Net,,"DoubleClick enables agencies, marketers and publishers to work together successfully and profit from their digital marketing investments.",ads,1609228800000,1635922800000,no,http://www.doubleclick.com,
+82,Japanese Yen,['Currency'],The website uses the ¥ symbol on its website - meaning it may accept payment in this Japanese currency.,payment,1614758400000,1614844800000,no,https://en.wikipedia.org/wiki/Japanese_yen,
+83,Cookiebot,['Privacy Compliance'],Cookie consent widget - now owned by Usercentrics.,widgets,1616886000000,1636444800000,no,http://cookiebot.com,
+84,Contentful,['Hosted Solution'],A headless CMS with an API at its core.,cms,1616886000000,1636444800000,yes,http://www.contentful.com,
+85,BootstrapCDN,,"Bootstrap CDN system - encompasses MaxCDN, NetDNA and Stackpath - donated to jsDelivr.",cdn,1616886000000,1636444800000,no,http://www.bootstrapcdn.com/,
+86,Webpack,,webpack takes modules with dependencies and generates static assets representing those modules.,javascript,1617606000000,1636268400000,no,http://webpack.github.io/,
+87,core-js,['Framework'],Modular standard library for JavaScript.,javascript,1617606000000,1636268400000,no,https://github.com/zloirock/core-js,
+88,Vue,['JavaScript Library'],vue.js a JavaScript MVVM framework.,javascript,1617606000000,1636268400000,no,http://vuejs.org,
+89,Day.js,,Day.js is a javascript date time library.,javascript,1617606000000,1636268400000,no,https://github.com/iamkun/dayjs,
+90,GSAP,['Animation'],"GSAP is a suite of tools for scripted, high-performance HTML5 animations that work in all major browsers from GreenSock.",javascript,1617606000000,1636268400000,no,http://greensock.com/gsap/,
+91,Laravel,,A PHP MVC framework.,framework,1617606000000,1635922800000,no,http://laravel.com/,
+92,Matomo Tag Manager,['Tag Management'],Tag management solution from Matomo.,analytics,1621148400000,1636444800000,no,https://matomo.org/TAG-MANAGER/,
+93,Java EE,,"Java Platform, Enterprise Edition (Java EE) is the industry standard for developing portable, robust, scalable and secure server-side Java applications.",framework,1623740400000,1636182000000,no,http://java.sun.com/javaee/,
+94,jsDelivr,,"A free CDN where Javascript developers can host their files. Encompasses MaxCDN, and BootstrapCDN.",cdn,1625122800000,1636444800000,no,http://www.jsdelivr.com/,
+95,Shockwave Flash Embed,,Adobe Flash Macromedia shockwave content. End of life product retiring in 2020.,framework,1167638400000,1636182000000,no,http://www.macromedia.com/software/flash/about/,
+96,jQuery 1.3.2,,jQuery version 1.3.2,javascript,1254639600000,1286348400000,no,http://blog.jquery.com/2009/02/20/jquery-1-3-2-released/,jQuery
+97,Euro,['Currency'],The website uses the € symbol on its website - meaning it may accept payment in Euros.,payment,1254639600000,1636268400000,no,https://en.wikipedia.org/wiki/Euro,
+98,OpenText Web Site Management,['Enterprise'],Enterprise CMS system.,cms,1262505600000,1286348400000,yes,https://www.opentext.com.au/what-we-do/products/customer-experience-management/web-content-management/web-site-management,

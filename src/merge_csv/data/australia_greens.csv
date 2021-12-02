@@ -1,0 +1,124 @@
+,Name,Categories,Description,Tag,FirstDetected,LastDetected,IsPremium,Link,Parent
+0,jQuery 1.5.2,,jQuery version 1.5.2,javascript,1386284400000,1391122800000,no,http://blog.jquery.com/2011/03/31/jquery-152-released/,jQuery
+1,touchSwipe,"['Compatibility', 'jQuery Plugin']","TouchSwipe is a jquery plugin to be used with jQuery on touch input devices such as iPad, iPhone etc.",javascript,1379631600000,1407970800000,no,https://github.com/mattbryson/TouchSwipe-Jquery-Plugin,
+2,jQuery Once,['jQuery Plugin'],Filters out all elements that had the same filter applied on them before. ,javascript,1379631600000,1635231600000,no,http://plugins.jquery.com/once/,jQuery
+3,AppNexus,"['Ad Exchange', 'Demand-side Platform']","Provides access to the major exchanges and aggregators, as well as cloud infrastructure scalable to billions of ad impressions a day with a layer of real-time decisioning on top.",ads,1373497200000,1431907200000,no,http://www.appnexus.com/,
+4,Del.icio.us,,The website contains del.icio.us based content.,widgets,1373497200000,1538694000000,no,http://del.icio.us,
+5,CloudFront,,"Amazon CloudFront is a web service for content delivery. It integrates with other Amazon Web Services to give developers and businesses an easy way to distribute content to end users with low latency, high data transfer speeds, and no commitments.",cdn,1373497200000,1635231600000,no,http://aws.amazon.com/cloudfront/,
+6,AJAX Libraries API,,"The AJAX Libraries API is a content distribution network and loading architecture for the most popular, open source JavaScript libraries.",cdn,1373497200000,1636268400000,no,http://code.google.com/apis/ajaxlibs/documentation/,
+7,Mustache,['Framework'],Logic-less Templates.,javascript,1372806000000,1635231600000,no,http://mustache.github.com/,
+8,jQuery Easing,"['Animation', 'jQuery Plugin']","A jQuery extension that provides functionality to ""ease"" things onto or off of the screen.",javascript,1372806000000,1635231600000,no,http://gsgd.co.uk/sandbox/jquery/easing/,jQuery
+9,Swipe JS,,Swipe is a lightweight mobile slider with 1:1 touch movement.,javascript,1372806000000,1407970800000,no,http://swipejs.com/,
+10,TranslateThis,['Translation'],Translates a website into over 51 different languages.,widgets,1372806000000,1376002800000,no,http://translateth.is/,
+11,Hover Intent,['UI'],"hoverIntent is a plug-in that attempts to determine the user's intent. It works like (and was derived from) jQuery's built-in hover. However, instead of immediately calling the onMouseOver function, it waits until the user's mouse slows down enough before making the call.",javascript,1372806000000,1635231600000,no,http://cherne.net/brian/resources/jquery.hoverIntent.html,
+12,jQuery Cookie,['jQuery Plugin'],"A simple, lightweight jQuery plugin for reading, writing and deleting cookies.",javascript,1372806000000,1540767600000,no,https://github.com/carhartl/jquery-cookie,jQuery
+13,JCarousel,"['jQuery Plugin', 'Slider']",jCarousel is a jQuery plugin for controlling a list of items in horizontal or vertical order.,javascript,1372806000000,1462834800000,no,http://sorgalla.com/jcarousel/,
+14,Facebook Like Button,,The code to implement a Facebook Like Button on the page.,widgets,1372806000000,1595026800000,no,http://developers.facebook.com/docs/reference/plugins/like/,
+15,Twitter Tweet Button,,Official Tweet Button for sharing articles on websites and counting how many times a URL has been shared.,widgets,1372806000000,1502233200000,no,https://twitter.com/about/resources/buttons#tweet,
+16,jQuery 2.0.0,,jQuery version 2.0.0,javascript,1372806000000,1390518000000,no,http://blog.jquery.com/2013/04/18/jquery-2-0-released/,jQuery
+17,Modernizr,['Compatibility'],Modernizr allows you to target specific browser functionality in your stylesheet.,javascript,1372806000000,1635231600000,no,http://www.modernizr.com,
+18,Shareaholic,"['Audience Measurement', 'Personalization', 'Retargeting / Remarketing', 'Social Management']",Browser and website analytics tools.,analytics,1372806000000,1589065200000,no,http://shareaholic.com/,
+19,Google Font API,['Fonts'],The Google Font API helps you add web fonts to any web page.,widgets,1372806000000,1636268400000,no,https://fonts.google.com,
+20,jQuery Form,['jQuery Plugin'],jQuery Form Plugin allows you to easily and unobtrusively upgrade HTML forms to use AJAX.,javascript,1372806000000,1635231600000,no,http://jquery.malsup.com/form/,jQuery
+21,GoDaddy SSL,['Root Authority'],Certificate provided by GoDaddy.,ssl,1372806000000,1454972400000,no,http://godaddy.com,
+22,Twitter Platform,,The page embeds the Twitter platform in one method or another.,javascript,1372806000000,1635231600000,no,http://twitter.com/about/resources,
+23,jQuery Validate,['jQuery Plugin'],JQuery Form Validation Plugin.,javascript,1372806000000,1635231600000,no,http://jqueryvalidation.org,jQuery
+24,Facebook for Websites,,Allows a user to make a website more sociable and connected with integrations from the hugely popular Facebook website.,javascript,1372806000000,1636268400000,no,http://developers.facebook.com/,
+25,Sexy Bookmarks,,Provides a way to bookmark the page on multiple social networks.,widgets,1372806000000,1394060400000,no,http://sexybookmarks.shareaholic.com/,
+26,SuperFish Menu,,Superfish is an enhanced Suckerfish-style menu jQuery plugin that takes an existing pure CSS drop-down menus and adds much-sought-after enhancements.,javascript,1372806000000,1635231600000,no,http://users.tpg.com.au/j_birch/plugins/superfish/,
+27,jQuery bgiframe,"['Compatibility', 'jQuery Plugin']",Fixes z-index issues in IE6.,javascript,1372806000000,1635231600000,no,http://docs.jquery.com/Plugins/bgiframe,jQuery
+28,Sendgrid,['Transactional Email'],SendGrid's cloud-based email infrastructure provides businesses with email delivery management.,mx,1370559600000,1636268400000,yes,http://sendgrid.com/,
+29,Add to Any,"['Social Sharing', 'Bookmarking']","Help your visitors share, save and subscribe to your content with Add to Any widgets.",widgets,1362056400000,1547766000000,no,http://addtoany.com,
+30,Lockerz Share,,A sharing and tracking system from Lockerz.,widgets,1364302800000,1367157600000,no,http://share.lockerz.com/,
+31,RSS,,"A family of web feed formats used to publish frequently updated content such as blog entries, news headlines or podcasts.",feeds,1320584400000,1636268400000,no,http://en.wikipedia.org/wiki/RSS_(file_format),
+32,jQuery,['JavaScript Library'],"JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",javascript,1320584400000,1636268400000,no,http://jquery.com,jQuery
+33,Drupal,['Open Source'],An engine suitable to setup or build a content driven or community driven website. Modular design allows flexibility in design.,cms,1320584400000,1636268400000,no,http://www.drupal.org,
+34,Shockwave Flash Embed,,Adobe Flash Macromedia shockwave content. End of life product retiring in 2020.,framework,1320584400000,1324213200000,no,http://www.macromedia.com/software/flash/about/,
+35,TweetMeme,,Update Twitter status using a simple button from tweetmeme.,widgets,1320584400000,1427238000000,no,http://www.tweetmeme.com,
+36,Facebook Sharer,,Share this page on Facebook using a deprecated sharing syntax.,widgets,1320584400000,1635231600000,no,http://www.facebook.com/facebook-widgets/share.php,
+37,Akamai,,Akamai provides a distributed computing platform for global Internet content and application delivery.,cdn,1320584400000,1453852800000,no,http://akamai.com,
+38,Content Delivery Network,,This page contains links that give the impression that some of the site contents are stored on a content delivery network.,CDN,1320584400000,1636268400000,no,http://en.wikipedia.org/wiki/Content_Delivery_Network,
+39,Facebook CDN,,This page has content that links to the Facebook content delivery network.,cdn,1320584400000,1635231600000,no,http://www.facebook.com,
+40,Google Analytics,"['Application Performance', 'Audience Measurement', 'Visitor Count Tracking']",Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.,analytics,1320584400000,1636268400000,no,http://google.com/analytics,
+41,nginx,,nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.,Web Server,1320584400000,1635231600000,no,http://nginx.net/,
+42,Google Apps for Business,['Business Email Hosting'],"Web-based email, calendar, and documents for teams. Renamed to Google Apps for Work, but now known as G Suite from Google Cloud.",mx,1345212000000,1635231600000,no,http://www.google.com/a,
+43,OzServers,"['Australian hosting', 'Dedicated Hosting']",Oz Servers Pty Ltd was established in early 2000 with the aim of bringing dedicated servers to the Australian marketplace.,hosting,1350565200000,1635231600000,no,https://www.ozservers.com.au/,
+44,Rackspace,"['US hosting', 'Dedicated Hosting']","Fanatical Support web hosting from global hosting provider Rackspace, encompassing SliceHost.",hosting,1345730400000,1349960400000,no,http://www.rackspace.com,
+45,jQuery Placeholder,['jQuery Plugin'],The jQuery placeholder easily allows you to emulate the placeholder attribute on input fields for all browsers.,javascript,1391122800000,1635231600000,no,https://github.com/mathiasbynens/jquery-placeholder,jQuery
+46,matchMedia,['Compatibility'],matchMedia polyfill for testing media queries in JS.,javascript,1391727600000,1635231600000,no,http://github.com/paulirish/matchMedia.js/,
+47,Datalogix,"['Advertiser Tracking', 'Conversion Optimization']",Leverages the power of purchase-based audience targeting to drive measurable online and offline sales,analytics,1395270000000,1415491200000,no,http://datalogix.com,
+48,Lotame Crowd Control,,Data driven marketing advertising program provides social media sites with advance targeting,analytics,1395270000000,1531436400000,no,http://lotame.com,
+49,DoubleClick.Net,,"DoubleClick enables agencies, marketers and publishers to work together successfully and profit from their digital marketing investments.",ads,1395270000000,1636268400000,no,http://www.doubleclick.com,
+50,AOL-Time Warner Online Advertising,,The website uses AOL-Time Warner Advertising Network,ads,1395270000000,1404691200000,no,http://aol.com,
+51,BlueKai,['Ad Exchange'],The BlueKai Data Exchange enables partners to buy and own data to boost ad targeting across any media.,ads,1395270000000,1531436400000,no,http://bluekai.com,
+52,MediaMath,['Advertiser Tracking'],Tools that enable and empower marketing professionals.,analytics,1395270000000,1475535600000,no,http://mediamath.com,
+53,AlphaSSL,['Root Authority'],"Certificate provided by AlphaSSL, a GlobalSign company.",ssl,1396479600000,1636268400000,no,http://alphassl.com,
+54,SPF,,The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.,mx,1397084400000,1636268400000,no,http://www.openspf.org/,
+55,OwnerIQ,['Marketing Automation'],"Enables advertisers, manufacturers and retailers to more precisely target their online message based on what consumers own.",analytics,1397084400000,1531436400000,yes,http://www.owneriq.com,
+56,Vocus Communications,['Australian hosting'],"Focus on providing high performance, high availability, and highly scalable communications solutions.",hosting,1399503600000,1468450800000,no,http://www.vocus.com.au/,
+57,jQuery Colorbox,['jQuery Plugin'],"A light-weight, customizable lightbox plugin for jQuery.",javascript,1402527600000,1540767600000,no,http://colorpowered.com/colorbox/,jQuery
+58,html5shiv,['Compatibility'],HTML5 IE enabling script shim.,javascript,1402873200000,1635231600000,no,https://github.com/afarkas/html5shiv,
+59,Respond,['Compatibility'],"A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)",javascript,1402873200000,1458169200000,no,https://github.com/scottjehl/Respond,
+60,Yahoo Small Business,,Yahoo advertising network and search engine marketing solutions.,ads,1404691200000,1431907200000,no,http://sem.smallbusiness.yahoo.com/searchenginemarketing/,
+61,Tapad,,Allows advertisers to engage the same consumer with consistent ads across multiple platforms.,ads,1404691200000,1404691200000,no,http://www.tapad.com/,
+62,Drupal 7,,Version 7 of Drupal.,cms,1406761200000,1635231600000,no,http://www.drupal.org/drupal-7.0,Drupal
+63,jQuery 1.8.0,,jQuery version 1.8.0,javascript,1406761200000,1430265600000,no,http://blog.jquery.com/2012/08/09/jquery-1-8-released/,jQuery
+64,Microsoft Azure DNS,,This domain is verified with Microsoft Azure.,mx,1408838400000,1636268400000,no,http://windowsazure.com,
+65,DMARC,['DMARC'],A technical specification created by a group of organizations that want to help reduce the potential for email-based abuse,mx,1410476400000,1636268400000,no,http://www.dmarc.org,
+66,Facebook Like,['Social Sharing'],"Allows users to Like items they find on the web, similar to how you Like items within Facebook.",widgets,1412121600000,1456444800000,no,http://developers.facebook.com/docs/reference/plugins/like,
+67,Foundation,,A responsive front-end framework.,framework,1413331200000,1572994800000,no,http://foundation.zurb.com/,
+68,Viewport Meta,,This page uses the viewport meta tag which means the content may be optimized for mobile content.,mobile,1413331200000,1636268400000,no,https://developers.google.com/speed/docs/insights/ConfigureViewport,
+69,GlobalSign,['Root Authority'],Certificate provided by GlobalSign.,ssl,1414623600000,1636268400000,no,http://globalsign.com,
+70,VigLink,['Contextual Advertising'],"Automatically participate in every relevant affiliate program without the need to signup, also includes Driving Revenue which VigLink have acquired.",ads,1421020800000,1531436400000,no,http://viglink.com,
+71,comScore,"['Advertiser Tracking', 'Audience Measurement', 'Conversion Optimization', 'Site Optimization', 'Visitor Count Tracking']",Market research company that studies internet trends and behavior.,analytics,1425945600000,1628146800000,no,http://www.comscore.com,
+72,Drupal Version 7.3x,,Version 7.3x of Drupal,cms,1429743600000,1444690800000,no,http://drupal.org,Drupal
+73,Google Universal Analytics,,"The analytics.js JavaScript snippet is a new way to measure how users interact with your website. It is similar to the previous Google tracking code, ga.js, but offers more flexibility for developers to customize their implementations.",analytics,1438214400000,1636268400000,no,https://developers.google.com/analytics/devguides/collection/analyticsjs/,Google Analytics
+74,Google Hosted Libraries,,"Google Hosted Libraries is a globally available content distribution network for the most popular, open-source JavaScript libraries.",javascript,1441839600000,1636268400000,no,https://developers.google.com/speed/libraries/,
+75,Google Hosted jQuery,,jQuery hoted at Google.,javascript,1441839600000,1636268400000,no,https://developers.google.com/speed/libraries/,Google Hosted Libraries
+76,Drupal Version 7.4x,,Version 7.4x of Drupal,cms,1445468400000,1478732400000,no,http://drupal.org,Drupal
+77,jQuery Cycle,['jQuery Plugin'],A slideshow plugin for JQuery that supports many different types of transition effects.,javascript,1458774000000,1528498800000,no,http://jquery.malsup.com/cycle/,jQuery
+78,jQuery Masonry,['UI'],Masonry is a layout plugin for jQuery. Think of it as the flip side of CSS floats.,javascript,1459378800000,1567465200000,no,http://desandro.com/resources/jquery-masonry/,jQuery
+79,Responsive Bootstrap Toolit,,"Responsive Bootstrap Toolkit provides an easy way of breakpoint detection in JavaScript, detecting changes in currently active breakpoint, as well as executing any breakpoint-specific JavaScript code. ",javascript,1459378800000,1528498800000,no,https://github.com/maciej-gurban/responsive-bootstrap-toolkit,
+80,jsDelivr,,"A free CDN where Javascript developers can host their files. Encompasses MaxCDN, and BootstrapCDN.",cdn,1478732400000,1636268400000,no,http://www.jsdelivr.com/,
+81,GStatic Google Static Content,,Google has off-loaded static content (Javascript/Images/CSS) to a different domain name in an effort to reduce bandwidth usage and increase network performance for the end user.,cdn,1485990000000,1608192000000,no,https://google.com,
+82,reCAPTCHA,['CAPTCHA'],Anti-bot CAPTCHA widget from Google.,widgets,1487199600000,1636268400000,no,https://www.google.com/recaptcha/intro/index.html,
+83,Workplace by Facebook,,"Group discussion, a personalised News Feed, and voice and video calling from Facebook.",widgets,1487199600000,1494284400000,no,https://workplace.fb.com/,
+84,Pingdom RUM,['Application Performance'],Real User Monitoring gives insight into performance for actual users visiting the website.,analytics,1488841200000,1528498800000,yes,https://www.pingdom.com/rum/,
+85,Google Optimize 360,"['A/B Testing', 'Personalization']",Test different variations of a website and then tailor it to deliver a personalized experience that works best for each customer and for your business.,analytics,1490310000000,1636268400000,maybe,https://www.google.com/analytics/optimize/,
+86,Google Tag Manager,['Tag Management'],Tag management that lets you add and update website tags without changes to underlying website code.,widgets,1490655600000,1636268400000,no,http://google.com/tagmanager,
+87,Amazon,"['Cloud Hosting', 'Cloud PaaS']",This site is hosted on Amazon AWS EC2 Infrastructure.,hosting,1496530800000,1636268400000,no,http://aws.amazon.com,
+88,Amazon Sydney Region,['Australian hosting'],Amazon Hosted EC2 Instances in Sydney,hosting,1496530800000,1636268400000,no,http://aws.amazon.com,Amazon
+89,SSL by Default,,The website redirects traffic to an HTTPS/SSL version by default.,ssl,1498431600000,1636268400000,no,http://trends.builtwith.com/ssl,
+90,Shopify Basic,,Shopify Basic Version,shop,1499727600000,1517698800000,no,https://shopify.com,Shopify
+91,YouTube,"['Live Stream / Webcast', 'Online Video Platform', 'Social Video Platform']",Embedded videos from YouTube.,media,1507244400000,1636268400000,no,http://youtube.com,
+92,Facebook Pixel,,Facebook Pixel is Facebooks conversion tracking system for ads on Facebook to websites.,analytics,1509490800000,1636268400000,no,https://www.facebook.com/business/help/952192354843755,
+93,Facebook SDK,," JavaScript SDK enables you to access all of the features of the Graph API via JavaScript, and it provides a rich set of client-side functionality for authentication and sharing. It differs from Facebook Connect.",javascript,1510009200000,1636268400000,no,http://developers.facebook.com/docs/reference/javascript/,
+94,Facebook Signal,,"Journalists use Signal to surface relevant trends, photos, videos and posts from Facebook and Instagram for use in their storytelling and reporting.",analytics,1510095600000,1635231600000,no,https://www.facebook.com/facebookmedia/get-started/signal,
+95,Facebook Custom Audiences,['Retargeting / Remarketing'],Custom Audiences from your website makes it possible to reach people who visit your website and deliver the right message to them on Facebook.,ads,1510009200000,1636268400000,no,https://developers.facebook.com/docs/reference/ads-api/custom-audience-website,
+96,jQuery UI,"['jQuery Plugin', 'UI']","jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",javascript,1519858800000,1635231600000,no,http://jqueryui.com/,jQuery
+97,Select2,,jQuery replacement for select boxes,javascript,1519858800000,1635231600000,no,https://select2.github.io/,
+98,Isotope,,A jQuery plugin for magical layouts,javascript,1519858800000,1635231600000,no,http://isotope.metafizzy.co,
+99,Amazon SES,['Transactional Email'],"Amazon Simple Email Service (Amazon SES) is a  scalable, bulk, transactional email-sending service for businesses and developers.",mx,1520290800000,1636268400000,yes,http://aws.amazon.com/ses/,
+100,IPhone / Mobile Compatible,,The website contains code that allows the page to support IPhone / Mobile Content.,mobile,1526943600000,1636268400000,no,http://apple.com,
+101,Mobile Optimized,,Microsoft invented the MobileOptimized META tag to control the layout width for mobile markup rendered in Internet Explorer Mobile.,mobile,1529622000000,1636268400000,no,http://msdn.microsoft.com/en-us/library/bb159711.aspx,
+102,Drupal 8,,Version 8 of the popular CMS Drupal.,cms,1529622000000,1636268400000,no,https://www.drupal.org/drupal-8.0,Drupal
+103,jQuery 3.2.1,,jQuery version 3.2.1,javascript,1529967600000,1636268400000,no,https://blog.jquery.com/2017/03/20/jquery-3-2-1-now-available/,jQuery
+104,Slick JS,['Animation'],Fully responsive carousel library.,javascript,1529967600000,1636268400000,no,http://kenwheeler.github.io/slick,
+105,lazySizes,,"Lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.",javascript,1529967600000,1636268400000,no,http://github.com/aFarkas/lazysizes,
+106,CKEditor,,Web-based HTML text editor with powerful formatting capabilities. Previously known as FCKeditor.,widgets,1529967600000,1635231600000,no,http://www.fckeditor.net,
+107,Facebook Conversion Tracking,['Conversion Optimization'],"Conversion tracking functionality from Facebook, allows a user to track advertisement clicks.",analytics,1531436400000,1636268400000,no,http://www.facebook.com/help/?page=994,
+108,GlobalSign Domain Verification,,Domain verification for SSL certificate validation.,framework,1539730800000,1636268400000,no,https://support.globalsign.com/customer/portal/articles/2167245-performing-domain-verification---dns-txt-record,
+109,Hotjar,"['Audience Measurement', 'Conversion Optimization', 'Feedback Forms and Surveys']","A heatmap, survey, feedback and funnel application.",analytics,1545346800000,1635231600000,yes,http://hotjar.com,
+110,Office 365 Mail,['Business Email Hosting'],Email sent from this domain has records showing Office 365 usage.,mx,1545346800000,1636268400000,no,https://products.office.com/en-us/business/office,
+111,Microsoft Exchange Online,['Business Email Hosting'],A rich hosted Exchange environment for every user without having to manage a server.,mx,1545346800000,1636268400000,no,http://www.microsoft.com/exchange/en-us/exchange-online-hosted-email.aspx,
+112,Amazon S3 CDN,,Amazon S3 is storage for the Internet. It is designed to make web-scale computing easier for developers.,cdns,1553209200000,1636268400000,no,http://aws.amazon.com/s3/,
+113,Facebook Domain Verification,,Domain Verification provides a way for you to claim ownership of your domain in Facebook Business Manager.,framework,1555455600000,1636268400000,no,https://developers.facebook.com/docs/sharing/domain-verification/,
+114,OpenResty,,Application server and framework system.,framework,1570489200000,1635231600000,no,http://openresty.org,
+115,COVID-19,,This website mentions COVID-19 / Novel Coronavirus.,widgets,1585263600000,1636268400000,no,https://www.who.int/emergencies/diseases/novel-coronavirus-2019,
+116,Global Site Tag,,"Google's primary tag for Google Measurement/Conversion Tracking, Adwords and DoubleClick.",analytics,1589065200000,1636268400000,no,https://support.google.com/adwords/answer/7548399,
+117,PHP,,PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.,framework,1591052400000,1633158000000,no,http://www.php.net,
+118,Autopilot SPF,['Marketing Platform'],Autopilot marketing system SPF record.,mx,1607846400000,1636268400000,no,https://autopilothq.com/,
+119,Autopilot,['Marketing Automation'],Enterprise platform for marketers to drive top line revenue. Previously known as Bislr.,analytics,1608192000000,1635231600000,yes,http://autopilothq.com,
+120,Events Page,,"The website contains a link to an ""Events"" or ""Calendar"" page.",link,1614931200000,1636268400000,no,https://kb.builtwith.com/special-reports/link-tracking/,
+121,Members Page,,The website contains a link to a members page or a members portal type or a membership page.,link,1616223600000,1636268400000,no,https://kb.builtwith.com/special-reports/link-tracking/,
+122,Intersection Observer,,API that can be used to understand the visibility and position of DOM elements relative to a containing element or to the top-level viewport.,javascript,1632553200000,1636268400000,no,https://www.w3.org/TR/intersection-observer/,

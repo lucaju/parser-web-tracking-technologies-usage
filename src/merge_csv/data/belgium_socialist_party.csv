@@ -1,0 +1,92 @@
+,Name,Categories,Description,Tag,FirstDetected,LastDetected,IsPremium,Link,Parent
+0,Kentico Xperience,['Enterprise'],"Kentico CMS for ASP.NET gives marketers and developers the ability to create websites. A solution for website, store, community and on-line marketing initiatives.",cms,1326009600000,1517526000000,yes,https://xperience.io,
+1,Smart App Banner,['Mobile'],"Displays a banner that provides a direct link to an Apple Store app, or opens the app if the user already has it installed.",widgets,1412665200000,1510009200000,no,https://developer.apple.com/news/index.php?id=10082012b,
+2,touchSwipe,"['Compatibility', 'jQuery Plugin']","TouchSwipe is a jquery plugin to be used with jQuery on touch input devices such as iPad, iPhone etc.",javascript,1388649600000,1510009200000,no,https://github.com/mattbryson/TouchSwipe-Jquery-Plugin,
+3,jQuery Easing,"['Animation', 'jQuery Plugin']","A jQuery extension that provides functionality to ""ease"" things onto or off of the screen.",javascript,1388649600000,1510009200000,no,http://gsgd.co.uk/sandbox/jquery/easing/,jQuery
+4,Swipe JS,,Swipe is a lightweight mobile slider with 1:1 touch movement.,javascript,1388649600000,1510009200000,no,http://swipejs.com/,
+5,jQuery,['JavaScript Library'],"JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",javascript,1326009600000,1636444800000,no,http://jquery.com,jQuery
+6,ASP.NET,,"ASP.NET is a web application framework marketed by Microsoft that programmers can use to build dynamic web sites, web applications and XML web services. It is part of Microsoft's .NET platform and is the successor to Microsoft's Active Server Pages (ASP) technology.",framework,1458169200000,1636444800000,no,http://www.asp.net,
+7,Facebook Like Button,,The code to implement a Facebook Like Button on the page.,widgets,1388649600000,1510009200000,no,http://developers.facebook.com/docs/reference/plugins/like/,
+8,Google Analytics Classic,,Classic Google Analytics - sites that are using non-universal analytics code.,analytics,1326009600000,1510009200000,no,https://developers.google.com/analytics/devguides/collection/gajs/,Google Analytics
+9,jQuery UI,"['jQuery Plugin', 'UI']","jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",javascript,1388649600000,1636268400000,no,http://jqueryui.com/,jQuery
+10,jQuery NoConflict,['jQuery Plugin'],Return control of $ back to the other libraries with a call to $.noConflict().,javascript,1388649600000,1510009200000,no,http://api.jquery.com/jQuery.noConflict/,jQuery
+11,ASP.NET Ajax,,"ASP.NET AJAX is a free framework for quickly creating a new generation of more efficient, more interactive and highly-personalized Web experiences that work across all the most popular browsers.",framework,1326009600000,1517526000000,no,http://ajax.asp.net,
+12,Mobile Non Scaleable Content,,"This content is formatted for mobile devices, it does not allow the content to be scaled.",mobile,1388649600000,1510009200000,no,http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html,
+13,Twitter Tweet Button,,Official Tweet Button for sharing articles on websites and counting how many times a URL has been shared.,widgets,1388649600000,1510009200000,no,https://twitter.com/about/resources/buttons#tweet,
+14,ASP.NET 4.0,,ASP.NET version 4.0.*,framework,1458169200000,1636444800000,no,http://www.microsoft.com/net,ASP.NET
+15,RSS,,"A family of web feed formats used to publish frequently updated content such as blog entries, news headlines or podcasts.",feeds,1326009600000,1510009200000,no,http://en.wikipedia.org/wiki/RSS_(file_format),
+16,jQuery 1.7.1,,jQuery version 1.7.1,javascript,1388649600000,1510009200000,no,http://blog.jquery.com/2011/11/21/jquery-1-7-1-released/,jQuery
+17,SPF,,The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.,mx,1458169200000,1636444800000,no,http://www.openspf.org/,
+18,Facebook Like Box,,The use of a fan page Like box Facebook page integration.,widgets,1388649600000,1510009200000,no,http://developers.facebook.com/docs/reference/plugins/like-box,
+19,Modernizr,['Compatibility'],Modernizr allows you to target specific browser functionality in your stylesheet.,javascript,1388649600000,1623567600000,no,http://www.modernizr.com,
+20,Twitter Platform,,The page embeds the Twitter platform in one method or another.,javascript,1388649600000,1510009200000,no,http://twitter.com/about/resources,
+21,Facebook SDK,," JavaScript SDK enables you to access all of the features of the Graph API via JavaScript, and it provides a rich set of client-side functionality for authentication and sharing. It differs from Facebook Connect.",javascript,1388649600000,1636444800000,no,http://developers.facebook.com/docs/reference/javascript/,
+22,Google Analytics,"['Application Performance', 'Audience Measurement', 'Visitor Count Tracking']",Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.,analytics,1326009600000,1636444800000,no,http://google.com/analytics,
+23,OVH,"['Canadian hosting', 'Dedicated Hosting', 'French hosting']",Hosting solutions provider.,hosting,1458169200000,1636444800000,no,http://www.ovh.co.uk,
+24,Facebook for Websites,,Allows a user to make a website more sociable and connected with integrations from the hugely popular Facebook website.,javascript,1388649600000,1636444800000,no,http://developers.facebook.com/,
+25,Viewport Meta,,This page uses the viewport meta tag which means the content may be optimized for mobile content.,mobile,1388649600000,1636444800000,no,https://developers.google.com/speed/docs/insights/ConfigureViewport,
+26,Facebook Like,['Social Sharing'],"Allows users to Like items they find on the web, similar to how you Like items within Facebook.",widgets,1388649600000,1510009200000,no,http://developers.facebook.com/docs/reference/plugins/like,
+27,Ve Interactive,['Conversion Optimization'],Ve Interactive is a data-driven solutions provider for shopping cart merchants.,analytics,1469055600000,1469055600000,yes,http://www.veinteractive.com,
+28,Microsoft Azure DNS,,This domain is verified with Microsoft Azure.,mx,1510614000000,1636444800000,no,http://windowsazure.com,
+29,ClickDimensions Mail,,Outbound email from ClickDimensions.,mx,1514242800000,1597705200000,no,http://clickdimensions.com,
+30,IPhone / Mobile Compatible,,The website contains code that allows the page to support IPhone / Mobile Content.,mobile,1388649600000,1636444800000,no,http://apple.com,
+31,Google Font API,['Fonts'],The Google Font API helps you add web fonts to any web page.,widgets,1531436400000,1636444800000,no,https://fonts.google.com,
+32,Google Maps API,,Google Maps has a wide array of APIs that let you embed the functionality of Google Maps.,mapping,1531436400000,1636444800000,no,https://developers.google.com/maps/,
+33,Google Maps,['Maps'],Google maps embedded into the webpage.,mapping,1531436400000,1636444800000,no,http://www.google.com/apis/maps/,
+34,Google Maps for Work,,Google Maps for work.,mapping,1531436400000,1588460400000,no,https://www.google.com/work/mapsearth/,Google Maps
+35,html5shiv,['Compatibility'],HTML5 IE enabling script shim.,javascript,1531436400000,1636444800000,no,https://github.com/afarkas/html5shiv,
+36,Content Delivery Network,,This page contains links that give the impression that some of the site contents are stored on a content delivery network.,CDN,1326009600000,1636444800000,no,http://en.wikipedia.org/wiki/Content_Delivery_Network,
+37,OSS CDN,,Open Source Software CDN from MaxCDN.,cdn,1531436400000,1636444800000,no,http://osscdn.com,
+38,Respond,['Compatibility'],"A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)",javascript,1531436400000,1636444800000,no,https://github.com/scottjehl/Respond,
+39,Google Universal Analytics,,"The analytics.js JavaScript snippet is a new way to measure how users interact with your website. It is similar to the previous Google tracking code, ga.js, but offers more flexibility for developers to customize their implementations.",analytics,1531436400000,1636444800000,no,https://developers.google.com/analytics/devguides/collection/analyticsjs/,Google Analytics
+40,Global Site Tag,,"Google's primary tag for Google Measurement/Conversion Tracking, Adwords and DoubleClick.",analytics,1531436400000,1636444800000,no,https://support.google.com/adwords/answer/7548399,
+41,Facebook Custom Audiences,['Retargeting / Remarketing'],Custom Audiences from your website makes it possible to reach people who visit your website and deliver the right message to them on Facebook.,ads,1531436400000,1636444800000,no,https://developers.facebook.com/docs/reference/ads-api/custom-audience-website,
+42,Facebook Pixel,,Facebook Pixel is Facebooks conversion tracking system for ads on Facebook to websites.,analytics,1531436400000,1636444800000,no,https://www.facebook.com/business/help/952192354843755,
+43,Angular JS,,Angular is what HTML would have been if it had been designed for building web applications.,javascript,1531436400000,1636444800000,no,http://www.angularjs.org,
+44,SSL by Default,,The website redirects traffic to an HTTPS/SSL version by default.,ssl,1531436400000,1636444800000,no,http://trends.builtwith.com/ssl,
+45,Facebook Conversion Tracking,['Conversion Optimization'],"Conversion tracking functionality from Facebook, allows a user to track advertisement clicks.",analytics,1531436400000,1636444800000,no,http://www.facebook.com/help/?page=994,
+46,SendinBlue,['Marketing Platform'],"Marketing campaigns, Transactional Emails, and SMS messages all in one platform.",mx,1549148400000,1636444800000,yes,http://www.sendinblue.com,
+47,Adobe Connect,,"Adobe Connect web conferencing software offers online meeting functionality, virtual classrooms and large scale webinars.",widgets,1556838000000,1581030000000,maybe,http://www.adobe.com/products/adobeconnect.html,
+48,WebEx Panel,,WebEx system.,widgets,1556838000000,1579734000000,no,http://webex.com,
+49,Common Name Invalid,,The Common Name/SAN value of this websites SSL certificate does not correspond to the domain name.,ssl,1570921200000,1581980400000,no,https://www.leaderssl.com/articles/388-common-name-mismatch-error-effective-ways-to-solve-a-problem,
+50,reCAPTCHA,['CAPTCHA'],Anti-bot CAPTCHA widget from Google.,widgets,1586559600000,1636444800000,no,https://www.google.com/recaptcha/intro/index.html,
+51,IIS,,This website is running on a Microsoft IIS Server solution.,Web Server,1586559600000,1636444800000,no,http://www.microsoft.com/servers/home.mspx,
+52,IIS 10,,Internet-based services for servers using Microsoft Windows v10.,Web Server,1586559600000,1636444800000,no,http://www.iis.net,IIS
+53,COVID-19,,This website mentions COVID-19 / Novel Coronavirus.,widgets,1588460400000,1636444800000,no,https://www.who.int/emergencies/diseases/novel-coronavirus-2019,
+54,LetsEncrypt,['Root Authority'],Let’s Encrypt is a free open Certificate Authority.,ssl,1589238000000,1636444800000,no,https://letsencrypt.org,
+55,Moment JS,['JavaScript Library'],"moment.js is a date library for parsing, validating, manipulating, and formatting dates.",javascript,1591052400000,1636268400000,no,http://momentjs.com,
+56,Google Tag Manager,['Tag Management'],Tag management that lets you add and update website tags without changes to underlying website code.,widgets,1591052400000,1636444800000,no,http://google.com/tagmanager,
+57,Select2,,jQuery replacement for select boxes,javascript,1591052400000,1633158000000,no,https://select2.github.io/,
+58,Bootstrap.js,['JavaScript Library'],Twitter Bootstrap JS components.,javascript,1595833200000,1636268400000,no,https://getbootstrap.com/javascript/,
+59,jQuery Masonry,['UI'],Masonry is a layout plugin for jQuery. Think of it as the flip side of CSS floats.,javascript,1595833200000,1636268400000,no,http://desandro.com/resources/jquery-masonry/,jQuery
+60,jQuery Cookie,['jQuery Plugin'],"A simple, lightweight jQuery plugin for reading, writing and deleting cookies.",javascript,1595833200000,1636268400000,no,https://github.com/carhartl/jquery-cookie,jQuery
+61,Slick JS,['Animation'],Fully responsive carousel library.,javascript,1595833200000,1636268400000,no,http://kenwheeler.github.io/slick,
+62,jQuery Validate,['jQuery Plugin'],JQuery Form Validation Plugin.,javascript,1595833200000,1636268400000,no,http://jqueryvalidation.org,jQuery
+63,YouTube,"['Live Stream / Webcast', 'Online Video Platform', 'Social Video Platform']",Embedded videos from YouTube.,media,1596351600000,1633158000000,no,http://youtube.com,
+64,Microsoft Exchange Online,['Business Email Hosting'],A rich hosted Exchange environment for every user without having to manage a server.,mx,1600383600000,1636444800000,no,http://www.microsoft.com/exchange/en-us/exchange-online-hosted-email.aspx,
+65,Office 365 Mail,['Business Email Hosting'],Email sent from this domain has records showing Office 365 usage.,mx,1600383600000,1636444800000,no,https://products.office.com/en-us/business/office,
+66,OVH AnyCast,,Content hosted on an AnyCast load balanced IP address from OVH.,cdns,1605081600000,1636268400000,no,http://ovh.net,
+67,Facebook Signal,,"Journalists use Signal to surface relevant trends, photos, videos and posts from Facebook and Instagram for use in their storytelling and reporting.",analytics,1605168000000,1633935600000,no,https://www.facebook.com/facebookmedia/get-started/signal,
+68,DoubleClick.Net,,"DoubleClick enables agencies, marketers and publishers to work together successfully and profit from their digital marketing investments.",ads,1605168000000,1612944000000,no,http://www.doubleclick.com,
+69,GStatic Google Static Content,,Google has off-loaded static content (Javascript/Images/CSS) to a different domain name in an effort to reduce bandwidth usage and increase network performance for the end user.,cdn,1605168000000,1633935600000,no,https://google.com,
+70,Fizzy UI Utils,,UI utilities & helpers,javascript,1605168000000,1623567600000,no,https://github.com/metafizzy/fizzy-ui-utils,
+71,MailJet,['Transactional Email'],Mailjet is a real-time Cloud Emailing platform.,mx,1606809600000,1636444800000,yes,http://www.mailjet.com/,
+72,Google Apps for Business,['Business Email Hosting'],"Web-based email, calendar, and documents for teams. Renamed to Google Apps for Work, but now known as G Suite from Google Cloud.",mx,1606518000000,1613462400000,no,http://www.google.com/a,
+73,Flexmail,['Marketing Automation'],Email marketing campaigns with automation scenarios from Belgium.,analytics,1609920000000,1636444800000,yes,https://flexmail.be/en,
+74,Sender ID,,Sender ID is an anti-spoofing email framework heavily based on SPF.,mx,1609920000000,1636444800000,no,https://en.wikipedia.org/wiki/Sender_ID,
+75,Adobe Dreamweaver,,"Based on the use of certain javascript functions, this page contains code generated, at least initially, by Dreamweaver.",framework,951897600000,981273600000,no,http://www.adobe.com/products/dreamweaver,
+76,Japanese Yen,['Currency'],The website uses the ¥ symbol on its website - meaning it may accept payment in this Japanese currency.,payment,1167638400000,1614499200000,no,https://en.wikipedia.org/wiki/Japanese_yen,
+77,Euro,['Currency'],The website uses the € symbol on its website - meaning it may accept payment in Euros.,payment,1167638400000,1479855600000,no,https://en.wikipedia.org/wiki/Euro,
+78,Pound Sterling,['Currency'],The website uses the £ symbol on its website - meaning it may accept payment in this British currency.,payment,1167638400000,1614499200000,no,https://en.wikipedia.org/wiki/Pound_sign,
+79,Microsoft Ajax Content Delivery Network,,The Microsoft Ajax Content Delivery Network hosts popular third party JavaScript libraries.,cdn,1326009600000,1382511600000,no,http://www.asp.net/ajaxlibrary/CDN.ashx,
+80,jQuery 1.4,,jQuery version 1.4,javascript,1326009600000,1382511600000,no,https://api.jquery.com/category/version/1.4/,jQuery
+81,jQuery pngfix,"['Compatibility', 'jQuery Plugin']",This plugin will fix the missing PNG-Transparency in Windows Internet Explorer 5.5 & 6.,javascript,1326009600000,1517526000000,no,http://jquery.andreaseberhard.de/pngFix/,jQuery
+82,PNG Fix,['Compatibility'],Fixes PNG handling in IE,javascript,1326009600000,1517526000000,no,http://homepage.ntlworld.com/bobosola/pnghowto.htm,
+83,Looped Slider,['Slider'],Simple looped slider JQuery plugin.,javascript,1326009600000,1517526000000,no,http://nathansearles.com/loopedslider/,
+84,Equal Heights,['jQuery Plugin'],Simple jQuery plugin to equalize heights of multiple elements on a page.,javascript,1326009600000,1382511600000,no,https://github.com/mattbanks/jQuery.equalHeights,
+85,Facebook Graph API,,This site has content that utilizes the Facebook Graph API,javascript,1326009600000,1570057200000,no,http://developers.facebook.com/docs/api,
+86,Facebook CDN,,This page has content that links to the Facebook content delivery network.,cdn,1326009600000,1326009600000,no,http://www.facebook.com,
+87,Akamai,,Akamai provides a distributed computing platform for global Internet content and application delivery.,cdn,1326009600000,1326009600000,no,http://akamai.com,
+88,Twitter CDN,,"This page contains content sourced from the Twitter CDN, either by the use of Widgets or linking to image content on twimg.com currently hosted by Akamai and Amazon.",cdn,1326009600000,1570057200000,no,http://twitter.com,
+89,jQuery Colorbox,['jQuery Plugin'],"A light-weight, customizable lightbox plugin for jQuery.",javascript,1382511600000,1382511600000,no,http://colorpowered.com/colorbox/,jQuery
+90,jsDelivr,,"A free CDN where Javascript developers can host their files. Encompasses MaxCDN, and BootstrapCDN.",cdn,1625468400000,1636444800000,no,http://www.jsdelivr.com/,

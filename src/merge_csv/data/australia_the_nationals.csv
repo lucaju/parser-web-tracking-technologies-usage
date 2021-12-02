@@ -1,0 +1,142 @@
+,Name,Categories,Description,Tag,FirstDetected,LastDetected,IsPremium,Link,Parent
+0,Twitter CDN,,"This page contains content sourced from the Twitter CDN, either by the use of Widgets or linking to image content on twimg.com currently hosted by Akamai and Amazon.",cdn,1387494000000,1442444400000,no,http://twitter.com,
+1,Microsoft Exchange Online,['Business Email Hosting'],A rich hosted Exchange environment for every user without having to manage a server.,mx,1386284400000,1636268400000,no,http://www.microsoft.com/exchange/en-us/exchange-online-hosted-email.aspx,
+2,ASP.NET 2.0,,ASP.NET version 2.0.*,framework,1385679600000,1447196400000,no,http://www.microsoft.com/net,ASP.NET
+3,SSL.com,['Root Authority'],Certificate provided by SSL.com,ssl,1380236400000,1380236400000,no,http://ssl.com,
+4,GeoTrust SSL,['Root Authority'],Certificate provided by GeoTrust.,ssl,1379026800000,1515625200000,no,http://geotrust.com,
+5,RapidSSL,,RapidSSL certificate provider.,ssl,1379026800000,1515625200000,no,http://rapidssl.com,
+6,Facebook CDN,,This page has content that links to the Facebook content delivery network.,cdn,1378422000000,1629270000000,no,http://www.facebook.com,
+7,Akamai,,Akamai provides a distributed computing platform for global Internet content and application delivery.,cdn,1378422000000,1589410800000,no,http://akamai.com,
+8,Facebook Like Button,,The code to implement a Facebook Like Button on the page.,widgets,1378422000000,1381705200000,no,http://developers.facebook.com/docs/reference/plugins/like/,
+9,Content Delivery Network,,This page contains links that give the impression that some of the site contents are stored on a content delivery network.,CDN,1378422000000,1629270000000,no,http://en.wikipedia.org/wiki/Content_Delivery_Network,
+10,jQuery,['JavaScript Library'],"JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",javascript,1369922400000,1636268400000,no,http://jquery.com,jQuery
+11,ASP.NET,,"ASP.NET is a web application framework marketed by Microsoft that programmers can use to build dynamic web sites, web applications and XML web services. It is part of Microsoft's .NET platform and is the successor to Microsoft's Active Server Pages (ASP) technology.",framework,1369922400000,1447196400000,no,http://www.asp.net,
+12,jQuery UI,"['jQuery Plugin', 'UI']","jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",javascript,1369922400000,1627887600000,no,http://jqueryui.com/,jQuery
+13,ASP.NET Ajax,,"ASP.NET AJAX is a free framework for quickly creating a new generation of more efficient, more interactive and highly-personalized Web experiences that work across all the most popular browsers.",framework,1369922400000,1447196400000,no,http://ajax.asp.net,
+14,Twitter Timeline,,"Add your tweets, favourites or searches as a timeline to the website.",widgets,1369922400000,1614844800000,no,http://twitter.com/settings/widgets,
+15,Google Font API,['Fonts'],The Google Font API helps you add web fonts to any web page.,widgets,1369922400000,1636268400000,no,https://fonts.google.com,
+16,Twitter Platform,,The page embeds the Twitter platform in one method or another.,javascript,1369922400000,1614844800000,no,http://twitter.com/about/resources,
+17,Facebook SDK,," JavaScript SDK enables you to access all of the features of the Graph API via JavaScript, and it provides a rich set of client-side functionality for authentication and sharing. It differs from Facebook Connect.",javascript,1369922400000,1636268400000,no,http://developers.facebook.com/docs/reference/javascript/,
+18,Google Analytics,"['Application Performance', 'Audience Measurement', 'Visitor Count Tracking']",Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.,analytics,1369922400000,1636268400000,no,http://google.com/analytics,
+19,Facebook for Websites,,Allows a user to make a website more sociable and connected with integrations from the hugely popular Facebook website.,javascript,1369922400000,1636268400000,no,http://developers.facebook.com/,
+20,DNN Software,['Open Source'],DotNetNuke is an open source framework built on ASP.net ideal for creating Enterprise Web Applications from DNN Corp.,cms,1369922400000,1447196400000,maybe,http://dnnsoftware.com,
+21,IIS 7,,Internet-based services for servers using Microsoft Windows.,Web Server,1369922400000,1447196400000,no,http://www.iis.net,IIS
+22,Telerik Controls,,Telerik controls for ASP.NET websites.,framework,1369922400000,1447196400000,yes,http://telerik.com,
+23,IIS,,This website is running on a Microsoft IIS Server solution.,Web Server,1369922400000,1447196400000,no,http://www.microsoft.com/servers/home.mspx,
+24,Parallels Plesk Panel,,"Host and manage websites and servers at any scale, includes virtualization software.",Server,1369922400000,1447196400000,no,http://www.parallels.com/products/plesk/,
+25,Ultra Serve Internet,"['Cloud Hosting', 'Australian hosting']",Ultra Serve Internet provides cloud services and is based in Australia.,hosting,1369922400000,1416096000000,no,http://ultraserve.com.au,
+26,SPF,,The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.,mx,1397862000000,1636268400000,no,http://www.openspf.org/,
+27,Sendgrid,['Transactional Email'],SendGrid's cloud-based email infrastructure provides businesses with email delivery management.,mx,1397862000000,1636268400000,yes,http://sendgrid.com/,
+28,YouTube,"['Live Stream / Webcast', 'Online Video Platform', 'Social Video Platform']",Embedded videos from YouTube.,media,1406156400000,1636268400000,no,http://youtube.com,
+29,Microsoft Azure DNS,,This domain is verified with Microsoft Azure.,mx,1408838400000,1480978800000,no,http://windowsazure.com,
+30,Web24,"['Australian hosting', 'Dedicated Hosting']","Australian dedicated, reseller, virtual and web hosting solutions.",hosting,1416700800000,1447196400000,no,http://web24.net.au,
+31,PHP,,PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.,framework,1431558000000,1633158000000,no,http://www.php.net,
+32,GStatic Google Static Content,,Google has off-loaded static content (Javascript/Images/CSS) to a different domain name in an effort to reduce bandwidth usage and increase network performance for the end user.,cdn,1434582000000,1629270000000,no,https://google.com,
+33,DoubleClick.Net,,"DoubleClick enables agencies, marketers and publishers to work together successfully and profit from their digital marketing investments.",ads,1438815600000,1484002800000,no,http://www.doubleclick.com,
+34,DNN 6.02,,DNN Software Version 6.02,cms,1440630000000,1444690800000,no,http://dnnsoftware.com,DNN Software
+35,Google Analytics Classic,,Classic Google Analytics - sites that are using non-universal analytics code.,analytics,1443654000000,1596092400000,no,https://developers.google.com/analytics/devguides/collection/gajs/,Google Analytics
+36,DNS Made Easy DNS,,Downtime prevention DNS provider.,ns,1447196400000,1479855600000,no,http://dnsmadeeasy.com,
+37,Yoast Plugins,['WordPress Plugins'],SEO based plugins from Yoast.,widgets,1449788400000,1636268400000,no,http://yoast.com/wordpress/seo/,
+38,Swipe JS,,Swipe is a lightweight mobile slider with 1:1 touch movement.,javascript,1449788400000,1527894000000,no,http://swipejs.com/,
+39,jQuery Cycle,['jQuery Plugin'],A slideshow plugin for JQuery that supports many different types of transition effects.,javascript,1449788400000,1527894000000,no,http://jquery.malsup.com/cycle/,jQuery
+40,Yoast WordPress SEO Plugin,['WordPress Plugins'],"Functionality that helps you optimize your pages content, images titles, meta descriptions and more.",widgets,1449788400000,1636268400000,no,https://yoast.com/wordpress/plugins/seo/,Yoast Plugins
+41,Really Simple Discovery,,"Really Simple Discovery is a way to help client software find the services needed to read, edit, or ""work with"" weblogging software.",feeds,1449788400000,1636268400000,no,http://cyber.law.harvard.edu/blogs/gems/tech/rsd.html,
+42,Twitter Embedded Tweets,,Embedded Tweet feature allows websites to generate copy and paste-able HTML markup to render a Tweet on any third-party website.,widgets,1449788400000,1527980400000,no,https://dev.twitter.com/docs/embedded-tweets,
+43,Font Awesome,['Fonts'],Iconic font and CSS toolkit.,widgets,1449788400000,1633244400000,no,http://fontawesome.io,
+44,Wordpress Monthly Activity,['Blog'],The WordPress site has new blog activity on a monthly interval.,cms,1449788400000,1527894000000,no,http://wordpress.com,WordPress
+45,YouTube IFrame Upload,,Lets users upload videos to YouTube from any webpage.,widgets,1449788400000,1527980400000,no,http://developers.google.com/youtube/youtube_upload_widget,
+46,Mobile Non Scaleable Content,,"This content is formatted for mobile devices, it does not allow the content to be scaled.",mobile,1449788400000,1636268400000,no,http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html,
+47,Gravity Forms,['Feedback Forms and Surveys'],Contact Forms for WordPress.,widgets,1449788400000,1636268400000,yes,http://www.gravityforms.com/,
+48,RSS,,"A family of web feed formats used to publish frequently updated content such as blog entries, news headlines or podcasts.",feeds,1449788400000,1636268400000,no,http://en.wikipedia.org/wiki/RSS_(file_format),
+49,Gravity Forms Placeholders,['WordPress Plugins'],Adds HTML5 placeholder support to Gravity Forms' fields with a Javascript fallback. ,widgets,1449788400000,1563231600000,no,https://wordpress.org/plugins/gravity-forms-placeholders/,
+50,nginx,,nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.,Web Server,1449788400000,1636268400000,no,http://nginx.net/,
+51,Modernizr,['Compatibility'],Modernizr allows you to target specific browser functionality in your stylesheet.,javascript,1449788400000,1614844800000,no,http://www.modernizr.com,
+52,Live Writer Support,,Windows Live Writer Tagging Support Schema,feeds,1449788400000,1636268400000,no,http://windowslivewriter.spaces.live.com,
+53,Wordpress Plugins,,Plugins are tools to extend the functionality of WordPress. The website uses various plugins from WordPress to provide additional functionality. Some of them may be listed here.,widgets,1449788400000,1636268400000,no,http://codex.wordpress.org/Plugins,
+54,Facebook Sharer,,Share this page on Facebook using a deprecated sharing syntax.,widgets,1449788400000,1632985200000,no,http://www.facebook.com/facebook-widgets/share.php,
+55,html5shiv,['Compatibility'],HTML5 IE enabling script shim.,javascript,1449788400000,1633244400000,no,https://github.com/afarkas/html5shiv,
+56,Google Tag Manager,['Tag Management'],Tag management that lets you add and update website tags without changes to underlying website code.,widgets,1449788400000,1636268400000,no,http://google.com/tagmanager,
+57,Isotope,,A jQuery plugin for magical layouts,javascript,1449788400000,1636268400000,no,http://isotope.metafizzy.co,
+58,WordPress,"['Open Source', 'Blog']","WordPress is a state-of-the-art semantic personal publishing platform with a focus on aesthetics, web standards, and usability.",cms,1449788400000,1636268400000,no,http://wordpress.org,
+59,Facebook Embedded Posts,['Social Sharing'],Embedded Posts are a way to put public posts - by a Page or a person on Facebook - into the content of a web site.,widgets,1449788400000,1488582000000,no,https://developers.facebook.com/docs/plugins/embedded-posts/,
+60,PNG Fix,['Compatibility'],Fixes PNG handling in IE,javascript,1449788400000,1527980400000,no,http://homepage.ntlworld.com/bobosola/pnghowto.htm,
+61,Pingback Support,,"A Pingback is one of three types of Linkbacks, methods for Web authors to request notification when somebody links to one of their documents.",feeds,1449788400000,1633244400000,no,http://en.wikipedia.org/wiki/Pingback,
+62,Viewport Meta,,This page uses the viewport meta tag which means the content may be optimized for mobile content.,mobile,1449788400000,1636268400000,no,https://developers.google.com/speed/docs/insights/ConfigureViewport,
+63,Sitelinks Search Box,['Site Search'],"With Google sitelinks search box, people can reach your content more quickly from search results.",widgets,1449788400000,1636268400000,no,https://developers.google.com/webmasters/richsnippets/sitelinkssearch?utm_source=wmc-blog&utm_medium=direct-referral&utm_campaign=sitelinks-searchbox,
+64,Explorer Canvas,,HTML5 Canvas for Internet Explorer,javascript,1449788400000,1527980400000,no,http://code.google.com/p/explorercanvas/,
+65,Yoast SEO Premium,['WordPress Plugins'],Premium version of the Yoast WordPress Plugin.,widgets,1449788400000,1636268400000,yes,https://yoast.com/wordpress/plugins/seo-premium/,Yoast WordPress SEO Plugin
+66,Linode,"['VPS Hosting', 'US hosting']",VPS hosting company specializing in Linux hosting.,hosting,1452466800000,1485990000000,no,http://linode.com,
+67,Krux Digital,['Advertiser Tracking'],"Captures, connects and monetize consumer data.",analytics,1453766400000,1481324400000,yes,http://kruxdigital.com/,
+68,Facebook Custom Audiences,['Retargeting / Remarketing'],Custom Audiences from your website makes it possible to reach people who visit your website and deliver the right message to them on Facebook.,ads,1453766400000,1633244400000,no,https://developers.facebook.com/docs/reference/ads-api/custom-audience-website,
+69,Twemoji,,Twitter Emoji for Everyone,widgets,1453766400000,1633158000000,no,https://github.com/twitter/twemoji,
+70,yepnope,,yepnope is an asynchronous conditional resource loader that allows you to load only the scripts that your users need.,javascript,1453766400000,1484002800000,no,http://yepnopejs.com/,
+71,Respond,['Compatibility'],"A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)",javascript,1453766400000,1527894000000,no,https://github.com/scottjehl/Respond,
+72,Google Universal Analytics,,"The analytics.js JavaScript snippet is a new way to measure how users interact with your website. It is similar to the previous Google tracking code, ga.js, but offers more flexibility for developers to customize their implementations.",analytics,1453766400000,1636268400000,no,https://developers.google.com/analytics/devguides/collection/analyticsjs/,Google Analytics
+73,DoubleClick Floodlight,,Floodlight is feature of DoubleClick ads that allows advertisers to capture and report on the actions of users who visit their website after viewing or clicking on one of the advertiser's ads.,analytics,1453766400000,1484089200000,no,http://www.google.com/support/dfa/partner/bin/static.py?page=guide.cs&guide=28818,
+74,matchMedia,['Compatibility'],matchMedia polyfill for testing media queries in JS.,javascript,1453766400000,1484089200000,no,http://github.com/paulirish/matchMedia.js/,
+75,Office 365 Mail,['Business Email Hosting'],Email sent from this domain has records showing Office 365 usage.,mx,1454972400000,1636268400000,no,https://products.office.com/en-us/business/office,
+76,Wordpress Daily Activity,,The WordPress site has new blog activity on a daily interval.,cms,1454972400000,1479855600000,no,http://wordpress.com,WordPress
+77,New Relic,['Application Performance'],New Relic is a dashboard used to keep an eye on application health and availability while monitoring real user experience.,analytics,1462834800000,1479855600000,no,http://newrelic.com/,
+78,Deposit Photos,['Image Provider'],Images on this site may have been sourced from Deposit Photos.,widgets,1464130800000,1614844800000,no,http://depositphotos.com,
+79,Google Conversion Tracking,"['Conversion Optimization', 'Conversion Tracking']","This free tool in AdWords can show you what happens after customers click your ad (for example, whether they purchased your product, called from a mobile phone or downloaded your app).",analytics,1468364400000,1484089200000,no,https://support.google.com/adwords/answer/1722054,
+80,YouTube IFrame API,,The IFrame player API lets you embed a YouTube video player on your website and control the player using JavaScript,media,1476572400000,1527980400000,no,https://developers.google.com/youtube/iframe_api_reference,
+81,Hurricane Electric,['US hosting'],Backbone colocation provider.,hosting,1479250800000,1479855600000,no,http://he.net,
+82,Amazon Route 53,['Enterprise DNS'],Amazon's scalable DNS web service system.,ns,1479855600000,1636268400000,no,http://aws.amazon.com/route53/,
+83,Mandrill,['Transactional Email'],Mandrill is an email infrastructure service. Detailed analytics offer insight to measure email performance.,mx,1482879600000,1636268400000,yes,http://mandrill.com/,
+84,Amazon,"['Cloud Hosting', 'Cloud PaaS']",This site is hosted on Amazon AWS EC2 Infrastructure.,hosting,1488582000000,1636268400000,no,http://aws.amazon.com,
+85,Apache 2.4,,Apache version 2.4.*,Web Server,1488582000000,1555542000000,no,http://httpd.apache.org/docs/2.4,Apache
+86,OpenSSL,,"The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured, and Open Source toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS v1) protocols as well as a full-strength general purpose cryptography library.",Server,1488582000000,1531436400000,no,http://openssl.org,
+87,WP Super Cache,['WordPress Plugins'],WP Super Cache is a page cache generation tool for WordPress.,widgets,1488582000000,1527894000000,no,http://wordpress.org/extend/plugins/wp-super-cache/,
+88,Apache,,Apache has been the most popular web server on the Internet since April 1996.,Web Server,1488582000000,1633244400000,no,http://httpd.apache.org/,
+89,OpenSSL 1.0.1,,OpenSSL version 1.0.1,Server,1488582000000,1524610800000,no,http://www.openssl.org,OpenSSL
+90,Amazon Sydney Region,['Australian hosting'],Amazon Hosted EC2 Instances in Sydney,hosting,1494630000000,1636268400000,no,http://aws.amazon.com,Amazon
+91,selectivizr,['Compatibility'],selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.,javascript,1504479600000,1527894000000,no,http://selectivizr.com/,
+92,Bootstrap.js,['JavaScript Library'],Twitter Bootstrap JS components.,javascript,1505084400000,1505084400000,no,https://getbootstrap.com/javascript/,
+93,Magnific Popup,,Magnific Popup is a responsive lightbox & dialog script.,javascript,1505084400000,1505084400000,no,http://dimsemenov.com/plugins/magnific-popup/,
+94,jQuery Migrate,['Compatibility'],APIs and features removed from jQuery core,javascript,1505084400000,1633158000000,no,https://github.com/jquery/jquery-migrate,jQuery
+95,Comodo PositiveSSL,,Comodo Positive SSL certificate.,ssl,1518735600000,1581030000000,no,http://www.positivessl.com/ssl-certificate-positivessl.php,
+96,Comodo SSL,['Root Authority'],Certificate provided by Comodo.,ssl,1518735600000,1633244400000,no,http://comodo.com,
+97,PHP 7,,Version 7 of the PHP framework.,framework,1527894000000,1531436400000,no,http://php.net/,PHP
+98,Slider Revolution,['WordPress Plugins'],A response sliding image plugin.,widgets,1528412400000,1636268400000,no,http://codecanyon.net/item/slider-revolution-responsive-wordpress-plugin/2751380?ref=garazy,
+99,Wordfence,['WordPress Plugins'],Wordfence Security is a free enterprise class security and performance plugin for WordPress.,widgets,1528412400000,1551567600000,no,https://wordfence.com,
+100,ThemePunch,,Using custom plugins/themes from ThemePunch.,widgets,1528412400000,1633244400000,no,http://www.themepunch.com,
+101,Visual Composer,['WordPress Plugins'],Visual Composer page builder plugin for WordPress – take full control over your site. Build any layout you can imagine with a drag and drop editor.,widgets,1528412400000,1636268400000,no,https://visualcomposer.com/,
+102,IPhone / Mobile Compatible,,The website contains code that allows the page to support IPhone / Mobile Content.,mobile,1527894000000,1636268400000,no,http://apple.com,
+103,layzr.js,,Library for lazy loading images.,javascript,1531436400000,1589842800000,no,http://callmecavs.com/layzr.js/,
+104,jQuery Mousewheel,['jQuery Plugin'],Adds mouse wheel support to the web site.,javascript,1531954800000,1633244400000,no,http://plugins.jquery.com/project/mousewheel,jQuery
+105,Fizzy UI Utils,,UI utilities & helpers,javascript,1531954800000,1605254400000,no,https://github.com/metafizzy/fizzy-ui-utils,
+106,GSAP,['Animation'],"GSAP is a suite of tools for scripted, high-performance HTML5 animations that work in all major browsers from GreenSock.",javascript,1531954800000,1636268400000,no,http://greensock.com/gsap/,
+107,jQuery Countdown,['jQuery Plugin'],A jQuery plugin that sets a div or span to show a countdown to a given time.,javascript,1533337200000,1636268400000,no,http://keith-wood.name/countdown.html,jQuery
+108,Apple Mobile Web Clips Icon,,"This page contains an icon for iPhone, iPad and iTouch devices.",mobile,1534806000000,1636268400000,no,http://developer.apple.com/library/iOS/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html,
+109,DuracellTomi Google Tag Manager for WordPress,['WordPress Plugins'],This plugin places the GTM container code snippets onto your wordpress website so that you do not need to add this manually.,widgets,1551049200000,1590015600000,no,https://wordpress.org/plugins/duracelltomi-google-tag-manager/,
+110,Amazon S3 CDN,,Amazon S3 is storage for the Internet. It is designed to make web-scale computing easier for developers.,cdns,1554073200000,1636268400000,no,http://aws.amazon.com/s3/,
+111,jQuery BlockUI,,"jQuery BlockUI Plugin lets you simulate synchronous behavior when using AJAX, without locking the browser.",javascript,1572994800000,1636268400000,no,http://jquery.malsup.com/block/,jQuery
+112,WooCommerce Add To Cart,['Non Platform'],A WooCommerce store with an 'add to cart' button means it's more likely to be an actual eCommerce store.,shop,1572994800000,1636268400000,no,https://woocommerce.com,WooCommerce
+113,WPBakery,['WordPress Plugins'],WordPress Page Builder plugin.,widgets,1572994800000,1636268400000,maybe,https://wpbakery.com,
+114,WooCommerce,['Non Platform'],Transforms your WordPress website into an online store.,shop,1572994800000,1636268400000,no,https://woocommerce.com,
+115,SSL by Default,,The website redirects traffic to an HTTPS/SSL version by default.,ssl,1572994800000,1636268400000,no,http://trends.builtwith.com/ssl,
+116,Sectigo SSL,,SSL from Sectigo formerly Comodo.,ssl,1581030000000,1636268400000,no,https://sectigo.com,
+117,Sectigo Domain SSL,,SSL registration with Sectigo (formerly Comodo CA).,ssl,1581030000000,1636268400000,no,https://sectigo.com,Sectigo SSL
+118,WooCommerce Checkout,"['Open Source', 'Plugin / Module']",A WooCommerce website that has a checkout page.,shop,1581030000000,1633244400000,no,http://woocommerce.com,
+119,The7,['WordPress Theme'],Customizable Wordpress theme.,framework,1582671600000,1636268400000,no,https://the7.io,
+120,touchSwipe,"['Compatibility', 'jQuery Plugin']","TouchSwipe is a jquery plugin to be used with jQuery on touch input devices such as iPad, iPhone etc.",javascript,1589410800000,1636268400000,no,https://github.com/mattbryson/TouchSwipe-Jquery-Plugin,
+121,WooCommerce 4.1,,WooCommerce version 4.1.*,shop,1592348400000,1592348400000,no,http://woocommerce.com,WooCommerce
+122,Global Site Tag,,"Google's primary tag for Google Measurement/Conversion Tracking, Adwords and DoubleClick.",analytics,1592348400000,1636268400000,no,https://support.google.com/adwords/answer/7548399,
+123,WooCommerce 4.2,,WooCommerce version 4.2.*,shop,1594681200000,1594681200000,no,http://woocommerce.com,WooCommerce
+124,TrackJS,,JavaScript error detection app for detecting JS errors on customer visits.,javascript,1591052400000,1591052400000,maybe,http://trackjs.com,
+125,Vue,['JavaScript Library'],vue.js a JavaScript MVVM framework.,javascript,1591052400000,1633158000000,no,http://vuejs.org,
+126,Australian English,,Website content is written in Australian English.,language,1598338800000,1636268400000,no,https://en.wikipedia.org/wiki/Language,
+127,jQuery Masonry,['UI'],Masonry is a layout plugin for jQuery. Think of it as the flip side of CSS floats.,javascript,1601881200000,1614844800000,no,http://desandro.com/resources/jquery-masonry/,jQuery
+128,PhotoSwipe,,A responsive JavaScript image gallery.,widgets,1601881200000,1605254400000,no,http://photoswipe.com,
+129,Facebook Login,['Login'],A way for users to log into your app using Facebook.,widgets,1601881200000,1605254400000,no,https://developers.facebook.com/docs/facebook-login/,
+130,Getty Images,['Image Provider'],This website has images that may have been sourced from Getty Images.,widgets,1600383600000,1636268400000,no,http://gettyimages.com,
+131,Events Page,,"The website contains a link to an ""Events"" or ""Calendar"" page.",link,1615536000000,1636268400000,no,https://kb.builtwith.com/special-reports/link-tracking/,
+132,CDN JS,,CloudFlare's CDN with popular javascript frameworks available.,cdn,1619506800000,1619506800000,no,http://cdnjs.com,
+133,Cloudflare JS,,Loads content from Cloudflare CDN.,cdn,1619506800000,1619506800000,no,https://cloudflare.com,
+134,WooCommerce 5.4,,WooCommerce version 5.4.*,shop,1623826800000,1626159600000,no,http://woocommerce.com,WooCommerce
+135,DMARC,['DMARC'],A technical specification created by a group of organizations that want to help reduce the potential for email-based abuse,mx,1624690800000,1636268400000,no,http://www.dmarc.org,
+136,Dmarcian,['DMARC'],DMARC SaaS platform for compliance.,mx,1624690800000,1636268400000,yes,https://dmarcian.com,
+137,reCAPTCHA,['CAPTCHA'],Anti-bot CAPTCHA widget from Google.,widgets,1625468400000,1636268400000,no,https://www.google.com/recaptcha/intro/index.html,
+138,WooCommerce 5.5,,WooCommerce version 5.5.*,shop,1627369200000,1629183600000,no,http://woocommerce.com,WooCommerce
+139,core-js,['Framework'],Modular standard library for JavaScript.,javascript,1629270000000,1629270000000,no,https://github.com/zloirock/core-js,
+140,Visa,['Payment Acceptance'],The website accepts payments with Visa.,payment,1627714800000,1627714800000,no,http://visa.com,

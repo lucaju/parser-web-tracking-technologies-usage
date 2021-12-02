@@ -1,0 +1,78 @@
+,Name,Categories,Description,Tag,FirstDetected,LastDetected,IsPremium,Link,Parent
+0,Microsoft Exchange Online,['Business Email Hosting'],A rich hosted Exchange environment for every user without having to manage a server.,mx,1387148400000,1636268400000,no,http://www.microsoft.com/exchange/en-us/exchange-online-hosted-email.aspx,
+1,Apache 2.2,,Apache version 2.2.*,Web Server,1385679600000,1498777200000,no,http://httpd.apache.org/docs/2.2,Apache
+2,twyn,['Ad Network'],Germany based advertising solution.,ads,1382655600000,1498777200000,no,http://twyn.com,
+3,Google Analytics Multiple Trackers,,"This page is connected to more than one Google Analytics, meaning it is sending tracking data two or more Google Analytics profiles.",analytics,1382050800000,1491260400000,no,https://developers.google.com/analytics/devguides/collection/gajs/,Google Analytics
+4,StartSSL,['Root Authority'],Certificate provided by StartSSL.,ssl,1372806000000,1417820400000,no,http://startssl.com,
+5,Akamai,,Akamai provides a distributed computing platform for global Internet content and application delivery.,cdn,1355490000000,1444690800000,no,http://akamai.com,
+6,Content Delivery Network,,This page contains links that give the impression that some of the site contents are stored on a content delivery network.,CDN,1355490000000,1633244400000,no,http://en.wikipedia.org/wiki/Content_Delivery_Network,
+7,Facebook CDN,,This page has content that links to the Facebook content delivery network.,cdn,1355490000000,1584572400000,no,http://www.facebook.com,
+8,Debian,,Debian is a free operating system (OS) for your computer.,Server,1354798800000,1633244400000,no,http://www.debian.org,
+9,Hello Bar,,Direct Your Visitors and promote your website's most important content.,widgets,1338472800000,1338472800000,maybe,http://www.hellobar.com,
+10,jQuery,['JavaScript Library'],"JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",javascript,1325854800000,1636268400000,no,http://jquery.com,jQuery
+11,Google Webmaster,,Webmaster tools provide you with a free and easy way to make your site more Google-friendly.,Web Master,1288652400000,1498777200000,no,http://www.google.com/webmasters/,
+12,Joomla!,['Open Source'],Joomla! is a Content Management System and Web Application Framework.,cms,1288652400000,1498777200000,no,http://joomla.org,
+13,RSS,,"A family of web feed formats used to publish frequently updated content such as blog entries, news headlines or podcasts.",feeds,1288652400000,1498777200000,no,http://en.wikipedia.org/wiki/RSS_(file_format),
+14,Atom,,Atom Syndication Format is an XML language used for web feeds very similar to RSS.,feeds,1288652400000,1498777200000,no,http://en.wikipedia.org/wiki/Atom_%28standard%29,
+15,MooTools,['JavaScript Library'],"MooTools is a compact, modular, Object-Oriented JavaScript framework designed for the intermediate to advanced JavaScript developer. It allows you to write powerful, flexible and cross-browser code with its elegant, well documented and coherent API.",javascript,1288652400000,1498777200000,no,http://mootools.net/,
+16,Google Analytics,"['Application Performance', 'Audience Measurement', 'Visitor Count Tracking']",Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.,analytics,1288652400000,1633244400000,no,http://google.com/analytics,
+17,Facebook Like Box,,The use of a fan page Like box Facebook page integration.,widgets,1320584400000,1426114800000,no,http://developers.facebook.com/docs/reference/plugins/like-box,
+18,Apache,,Apache has been the most popular web server on the Internet since April 1996.,Web Server,1320584400000,1636268400000,no,http://httpd.apache.org/,
+19,Ubuntu,,"Ubuntu is a free, Debian derived Linux-based operating system, available with both community and professional support.",Server,1320584400000,1351774800000,no,http://ubuntu.com,
+20,PHP,,PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.,framework,1320584400000,1633158000000,no,http://www.php.net,
+21,SPF,,The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.,mx,1404342000000,1636268400000,no,http://www.openspf.org/,
+22,Microsoft Azure DNS,,This domain is verified with Microsoft Azure.,mx,1409180400000,1636268400000,no,http://windowsazure.com,
+23,Slick,,Standalone CSS Selector Parser and Engine from MooTools.,javascript,1409785200000,1498431600000,no,https://github.com/mootools/slick,
+24,Gandi Standard SSL,,Gandi hosting standard SSL certificate.,ssl,1418338800000,1498431600000,no,http://en.gandi.net/ssl,
+25,Office 365 Mail,['Business Email Hosting'],Email sent from this domain has records showing Office 365 usage.,mx,1440025200000,1636268400000,no,https://products.office.com/en-us/business/office,
+26,Google Analytics Classic,,Classic Google Analytics - sites that are using non-universal analytics code.,analytics,1288652400000,1491260400000,no,https://developers.google.com/analytics/devguides/collection/gajs/,Google Analytics
+27,Google Font API,['Fonts'],The Google Font API helps you add web fonts to any web page.,widgets,1444690800000,1636268400000,no,https://fonts.google.com,
+28,Font Awesome,['Fonts'],Iconic font and CSS toolkit.,widgets,1444690800000,1633244400000,no,http://fontawesome.io,
+29,Viewport Meta,,This page uses the viewport meta tag which means the content may be optimized for mobile content.,mobile,1444690800000,1636268400000,no,https://developers.google.com/speed/docs/insights/ConfigureViewport,
+30,Mobile Non Scaleable Content,,"This content is formatted for mobile devices, it does not allow the content to be scaled.",mobile,1444690800000,1636268400000,no,http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html,
+31,Apple Mobile Web App Capable,,Launches a web application for Safari on iOS in full-screen mode to look like a native application. ,mobile,1444690800000,1444862972745,no,http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html,
+32,IPhone / Mobile Compatible,,The website contains code that allows the page to support IPhone / Mobile Content.,mobile,1444690800000,1636268400000,no,http://apple.com,
+33,html5shiv,['Compatibility'],HTML5 IE enabling script shim.,javascript,1444690800000,1636268400000,no,https://github.com/afarkas/html5shiv,
+34,DoubleClick.Net,,"DoubleClick enables agencies, marketers and publishers to work together successfully and profit from their digital marketing investments.",ads,1444690800000,1545346800000,no,http://www.doubleclick.com,
+35,jQuery Tmpl,,A template engine for jQuery,javascript,1444690800000,1444690800000,no,https://github.com/jquery/jquery-tmpl,jQuery
+36,YouTube,"['Live Stream / Webcast', 'Online Video Platform', 'Social Video Platform']",Embedded videos from YouTube.,media,1444690800000,1636268400000,no,http://youtube.com,
+37,Twitter Platform,,The page embeds the Twitter platform in one method or another.,javascript,1444690800000,1444690800000,no,http://twitter.com/about/resources,
+38,Facebook SDK,," JavaScript SDK enables you to access all of the features of the Graph API via JavaScript, and it provides a rich set of client-side functionality for authentication and sharing. It differs from Facebook Connect.",javascript,1444690800000,1444690800000,no,http://developers.facebook.com/docs/reference/javascript/,
+39,Twitter CDN,,"This page contains content sourced from the Twitter CDN, either by the use of Widgets or linking to image content on twimg.com currently hosted by Akamai and Amazon.",cdn,1444690800000,1584572400000,no,http://twitter.com,
+40,Facebook for Websites,,Allows a user to make a website more sociable and connected with integrations from the hugely popular Facebook website.,javascript,1444690800000,1444690800000,no,http://developers.facebook.com/,
+41,Google Universal Analytics,,"The analytics.js JavaScript snippet is a new way to measure how users interact with your website. It is similar to the previous Google tracking code, ga.js, but offers more flexibility for developers to customize their implementations.",analytics,1444690800000,1633244400000,no,https://developers.google.com/analytics/devguides/collection/analyticsjs/,Google Analytics
+42,German,,Website content is written in German.,language,1499122800000,1636268400000,no,http://de.wikipedia.org,
+43,TYPO3,"['Community CMS', 'Enterprise', 'Open Source']",TYPO3 Content Management Framework for enterprise purposes on the web and in intranets written in PHP.,cms,1499122800000,1636268400000,no,http://www.typo3.org,
+44,jQuery UI,"['jQuery Plugin', 'UI']","jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",javascript,1499122800000,1636268400000,no,http://jqueryui.com/,jQuery
+45,Materialize CSS,,Material Design CSS Framework,framework,1499122800000,1635058800000,no,http://materializecss.com,
+46,ShareThis,"['Bookmarking', 'Social Sharing']","One button sharing - quick sharing to MySpace, Email and more!",widgets,1499122800000,1636268400000,no,http://sharethis.com,
+47,Apple Mobile Web Clips Icon,,"This page contains an icon for iPhone, iPad and iTouch devices.",mobile,1499122800000,1636268400000,no,http://developer.apple.com/library/iOS/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html,
+48,Parsley.js,,Javascript forms validation script.,javascript,1499122800000,1636268400000,no,http://parsleyjs.org,
+49,Modernizr,['Compatibility'],Modernizr allows you to target specific browser functionality in your stylesheet.,javascript,1499122800000,1636268400000,no,http://www.modernizr.com,
+50,Lightbox,,"Lightbox JS is a simple, unobtrusive script used to overlay images on the current page. It's a snap to setup and works on all modern browsers.",javascript,1499122800000,1590015600000,no,http://www.huddletogether.com/projects/lightbox/,
+51,PHP 7,,Version 7 of the PHP framework.,framework,1499122800000,1509750000000,no,http://php.net/,PHP
+52,Fizzy UI Utils,,UI utilities & helpers,javascript,1499122800000,1636268400000,no,https://github.com/metafizzy/fizzy-ui-utils,
+53,jQuery Masonry,['UI'],Masonry is a layout plugin for jQuery. Think of it as the flip side of CSS floats.,javascript,1499122800000,1636268400000,no,http://desandro.com/resources/jquery-masonry/,jQuery
+54,LetsEncrypt,['Root Authority'],Let’s Encrypt is a free open Certificate Authority.,ssl,1499122800000,1636268400000,no,https://letsencrypt.org,
+55,GStatic Google Static Content,,Google has off-loaded static content (Javascript/Images/CSS) to a different domain name in an effort to reduce bandwidth usage and increase network performance for the end user.,cdn,1499382000000,1630738800000,no,https://google.com,
+56,YouTube IFrame Upload,,Lets users upload videos to YouTube from any webpage.,widgets,1499122800000,1584572400000,no,http://developers.google.com/youtube/youtube_upload_widget,
+57,YouTube IFrame API,,The IFrame player API lets you embed a YouTube video player on your website and control the player using JavaScript,media,1499122800000,1584572400000,no,https://developers.google.com/youtube/iframe_api_reference,
+58,Froogaloop,,"Froogaloop is a small Javascript utility framework to help with the complexities
+involved in dealing with using the Javascript API through window.postMessage
+for controlling Vimeo's Moogaloop video player.",javascript,1499122800000,1584572400000,no,https://github.com/vimeo/froogaloop,
+59,SSL by Default,,The website redirects traffic to an HTTPS/SSL version by default.,ssl,1499122800000,1636268400000,no,http://trends.builtwith.com/ssl,
+60,Respond,['Compatibility'],"A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)",javascript,1499122800000,1636268400000,no,https://github.com/scottjehl/Respond,
+61,matchMedia,['Compatibility'],matchMedia polyfill for testing media queries in JS.,javascript,1499122800000,1505775600000,no,http://github.com/paulirish/matchMedia.js/,
+62,Isotope,,A jQuery plugin for magical layouts,javascript,1504825200000,1636268400000,no,http://isotope.metafizzy.co,
+63,UNPKG,,"unpkg is a fast, global content delivery network for everything on npm.",cdn,1505775600000,1636268400000,no,https://unpkg.com,
+64,jQuery Mobile,,"A unified user interface system across all popular mobile device platforms, built on jQuery and jQuery UI foundation.",javascript,1505775600000,1545346800000,no,http://jquerymobile.com,jQuery
+65,Facebook Graph API,,This site has content that utilizes the Facebook Graph API,javascript,1505775600000,1584572400000,no,http://developers.facebook.com/docs/api,
+66,Fotolia,['Image Provider'],Images on this site may have been supplied by Fotolia.,widgets,1506380400000,1513033200000,no,http://fotolia.com,
+67,jQuery Cookie,['jQuery Plugin'],"A simple, lightweight jQuery plugin for reading, writing and deleting cookies.",javascript,1526598000000,1636268400000,no,https://github.com/carhartl/jquery-cookie,jQuery
+68,Ruby on Rails Token,,Ruby on Rails is an open-source web framework that is optimized for programmer happiness and sustainable productivity. Note that Ruby on Rails has two detection techniques and this is one of them.,framework,1526598000000,1614758400000,no,http://www.rubyonrails.org/,
+69,nginx,,nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.,Web Server,1526598000000,1633244400000,no,http://nginx.net/,
+70,SendinBlue,['Marketing Platform'],"Marketing campaigns, Transactional Emails, and SMS messages all in one platform.",mx,1558911600000,1636268400000,yes,http://www.sendinblue.com,
+71,Hammer JS,,A javascript library for multi-touch gestures from mobile devices.,javascript,1591052400000,1633158000000,no,http://eightmedia.github.com/hammer.js/,
+72,Microsoft Frontpage,,This page was built using Microsoft FrontPage. A WYSIWYG HTML editor and administration tool.    Microsoft FrontPage has since been replaced by Microsoft Expression Web and Sharepoint Designer.,framework,952038000000,1017270000000,no,http://en.wikipedia.org/wiki/Microsoft_FrontPage,
+73,JoomFish Language Selection,"['Joomla Module', 'Translation']",Multi Lingual extension and translation manager for Joomla!,widgets,1288652400000,1288652400000,no,https://www.thinknetwork.com/joomfish/,
+74,Euro,['Currency'],The website uses the € symbol on its website - meaning it may accept payment in Euros.,payment,1288652400000,1288652400000,no,https://en.wikipedia.org/wiki/Euro,

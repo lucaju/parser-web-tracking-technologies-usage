@@ -1,0 +1,43 @@
+,Name,Categories,Description,Tag,FirstDetected,LastDetected,IsPremium,Link,Parent
+0,Google Analytics Classic,,Classic Google Analytics - sites that are using non-universal analytics code.,analytics,1636515145172,1636515145172,no,https://developers.google.com/analytics/devguides/collection/gajs/,Google Analytics
+1,Google Analytics,"['Application Performance', 'Audience Measurement', 'Visitor Count Tracking']",Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.,analytics,1636515145172,1636515145172,no,http://google.com/analytics,
+2,SPF,,The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.,mx,1636515145172,1636515145172,no,http://www.openspf.org/,
+3,Facebook Pixel,,Facebook Pixel is Facebooks conversion tracking system for ads on Facebook to websites.,analytics,1636515145172,1636515145172,no,https://www.facebook.com/business/help/952192354843755,
+4,Google Search Appliance,['Enterprise'],Google Search for Work system provides searching of internal business systems.,cms,1636515145172,1636515145172,yes,https://www.google.com.au/work/search/products/gsa.html,
+5,Facebook Conversion Tracking,['Conversion Optimization'],"Conversion tracking functionality from Facebook, allows a user to track advertisement clicks.",analytics,1636515145172,1636515145172,no,http://www.facebook.com/help/?page=994,
+6,Facebook SDK,," JavaScript SDK enables you to access all of the features of the Graph API via JavaScript, and it provides a rich set of client-side functionality for authentication and sharing. It differs from Facebook Connect.",javascript,1636515145172,1636515145172,no,http://developers.facebook.com/docs/reference/javascript/,
+7,AcyMailing,,Email marketing and newsletter system for Joomla!,widgets,1636515145172,1636515145172,maybe,http://acyba.com,
+8,Facebook for Websites,,Allows a user to make a website more sociable and connected with integrations from the hugely popular Facebook website.,javascript,1636515145172,1636515145172,no,http://developers.facebook.com/,
+9,Facebook Custom Audiences,['Retargeting / Remarketing'],Custom Audiences from your website makes it possible to reach people who visit your website and deliver the right message to them on Facebook.,ads,1636515145172,1636515145172,no,https://developers.facebook.com/docs/reference/ads-api/custom-audience-website,
+10,Facebook Sharer,,Share this page on Facebook using a deprecated sharing syntax.,widgets,1636515145172,1636515145172,no,http://www.facebook.com/facebook-widgets/share.php,
+11,Facebook CDN,,This page has content that links to the Facebook content delivery network.,cdn,1636515145172,1636515145172,no,http://www.facebook.com,
+12,Google Font API,['Fonts'],The Google Font API helps you add web fonts to any web page.,widgets,1636515145172,1636515145172,no,https://fonts.google.com,
+13,jQuery,['JavaScript Library'],"JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",javascript,1636515145172,1636515145172,no,http://jquery.com,jQuery
+14,jQuery UI,"['jQuery Plugin', 'UI']","jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",javascript,1636515145172,1636515145172,no,http://jqueryui.com/,jQuery
+15,jQuery Colorbox,['jQuery Plugin'],"A light-weight, customizable lightbox plugin for jQuery.",javascript,1636515145172,1636515145172,no,http://colorpowered.com/colorbox/,jQuery
+16,jQuery NoConflict,['jQuery Plugin'],Return control of $ back to the other libraries with a call to $.noConflict().,javascript,1636515145172,1636515145172,no,http://api.jquery.com/jQuery.noConflict/,jQuery
+17,Cookie Accept,"['Joomla Module', 'Privacy Compliance']",The Joomla module displays information about the use of cookies.,widgets,1636515145172,1636515145172,no,http://extensions.joomla.org/extension/cookie-accept,
+18,Viewport Meta,,This page uses the viewport meta tag which means the content may be optimized for mobile content.,mobile,1636515145172,1636515145172,no,https://developers.google.com/speed/docs/insights/ConfigureViewport,
+19,Atom,,Atom Syndication Format is an XML language used for web feeds very similar to RSS.,feeds,1636515145172,1636515145172,no,http://en.wikipedia.org/wiki/Atom_%28standard%29,
+20,RSS,,"A family of web feed formats used to publish frequently updated content such as blog entries, news headlines or podcasts.",feeds,1636515145172,1636515145172,no,http://en.wikipedia.org/wiki/RSS_(file_format),
+21,IPhone / Mobile Compatible,,The website contains code that allows the page to support IPhone / Mobile Content.,mobile,1636515145172,1636515145172,no,http://apple.com,
+22,Isotope,,A jQuery plugin for magical layouts,javascript,1636515145172,1636515145172,no,http://isotope.metafizzy.co,
+23,imagesLoaded,,jQuery plugin for seeing if the images are loaded.,javascript,1636515145172,1636515145172,no,https://github.com/desandro/imagesloaded,
+24,GSAP,['Animation'],"GSAP is a suite of tools for scripted, high-performance HTML5 animations that work in all major browsers from GreenSock.",javascript,1636515145172,1636515145172,no,http://greensock.com/gsap/,
+25,Polish,,Website content is written in Polish.,language,1636515145172,1636515145172,no,http://pl.wikipedia.org,
+26,Microsoft BingBot Disallow,,The website has disallow rules for Microsoft Bing Bot.,robots,1636515145172,1636515145172,no,https://blogs.bing.com/webmaster/2012/05/03/to-crawl-or-not-to-crawl-that-is-bingbots-question/,
+27,Microsoft MSNBot Disallow,,The website has disallow rules for Microsoft MSNBot.,robots,1636515145172,1636515145172,no,https://blogs.bing.com/webmaster/2009/08/10/crawl-delay-and-the-bing-crawler-msnbot,
+28,CERTUM,,SSL certificate provider from Asseco.,ssl,1636515145172,1636515145172,no,https://www.certum.eu,
+29,SSL by Default,,The website redirects traffic to an HTTPS/SSL version by default.,ssl,1636515145172,1636515145172,no,http://trends.builtwith.com/ssl,
+30,COVID-19,,This website mentions COVID-19 / Novel Coronavirus.,widgets,1636515145172,1636515145172,no,https://www.who.int/emergencies/diseases/novel-coronavirus-2019,
+31,OzServers,"['Australian hosting', 'Dedicated Hosting']",Oz Servers Pty Ltd was established in early 2000 with the aim of bringing dedicated servers to the Australian marketplace.,hosting,1636515145172,1636515145172,no,https://www.ozservers.com.au/,
+32,Microsoft Azure DNS,,This domain is verified with Microsoft Azure.,mx,1636515145172,1636515145172,no,http://windowsazure.com,
+33,Microsoft Exchange Online,['Business Email Hosting'],A rich hosted Exchange environment for every user without having to manage a server.,mx,1636515145172,1636515145172,no,http://www.microsoft.com/exchange/en-us/exchange-online-hosted-email.aspx,
+34,Office 365 Mail,['Business Email Hosting'],Email sent from this domain has records showing Office 365 usage.,mx,1636515145172,1636515145172,no,https://products.office.com/en-us/business/office,
+35,Home.pl DNS,,Polish based web hosting and DNS registration.,ns,1636515145172,1636515145172,no,http://home.pl,
+36,Twitter Tweet Button,,Official Tweet Button for sharing articles on websites and counting how many times a URL has been shared.,widgets,1636515145172,1636515145172,no,https://twitter.com/about/resources/buttons#tweet,
+37,KineticJS,,KineticJS is an HTML5 Canvas JavaScript framework.,javascript,1636515145172,1636515145172,no,http://kineticjs.com/,
+38,jQuery Migrate,['Compatibility'],APIs and features removed from jQuery core,javascript,1636515145172,1636515145172,no,https://github.com/jquery/jquery-migrate,jQuery
+39,Facebook Graph API,,This site has content that utilizes the Facebook Graph API,javascript,1636515145172,1636515145172,no,http://developers.facebook.com/docs/api,
+40,Content Delivery Network,,This page contains links that give the impression that some of the site contents are stored on a content delivery network.,CDN,1636515145172,1636515145172,no,http://en.wikipedia.org/wiki/Content_Delivery_Network,
+41,nginx,,nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.,Web Server,1636515145172,1636515145172,no,http://nginx.net/,

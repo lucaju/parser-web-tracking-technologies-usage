@@ -1,0 +1,134 @@
+,Name,Categories,Description,Tag,FirstDetected,LastDetected,IsPremium,Link,Parent
+0,jQuery Accordion,"['jQuery Plugin', 'UI']",Accordion element of jQuery UI.,javascript,1442444400000,1454972400000,no,http://jqueryui.com/accordion/,jQuery
+1,jQuery Validation Engine,['jQuery Plugin'],jQuery validation engine is a Javascript plugin aimed at the validation of form fields in the browser.,javascript,1442444400000,1454972400000,no,https://github.com/posabsolute/jQuery-Validation-Engine,jQuery
+2,GeoTrust SSL,['Root Authority'],Certificate provided by GeoTrust.,ssl,1372806000000,1515625200000,no,http://geotrust.com,
+3,GeoTrust QuickSSL Premium,,Premium SSL solutions from GeoTrust.,ssl,1372806000000,1447196400000,no,http://www.geotrust.com/ssl/ssl-certificates-premium/,
+4,GeoTrust QuickSSL,,QuickSSL has been replaced with QuickSSL Premium to give you more for the same low price.,ssl,1372806000000,1447196400000,no,http://www.geotrust.com/ssl/ssl-certificates-premium/,
+5,MDG IT,['Australian hosting'],Australian Magento specialist hosting.,hosting,1367676000000,1488582000000,no,http://www.mdg-it.com.au/,
+6,Highslide,,Highslide JS is a piece of JavaScript that streamlines the use of thumbnail images on web pages.,javascript,1442444400000,1494025200000,no,http://www.highslide.com/,
+7,Google Webmaster,,Webmaster tools provide you with a free and easy way to make your site more Google-friendly.,Web Master,1442444400000,1494025200000,no,http://www.google.com/webmasters/,
+8,Facebook SDK,," JavaScript SDK enables you to access all of the features of the Graph API via JavaScript, and it provides a rich set of client-side functionality for authentication and sharing. It differs from Facebook Connect.",javascript,1442444400000,1633158000000,no,http://developers.facebook.com/docs/reference/javascript/,
+9,Apache,,Apache has been the most popular web server on the Internet since April 1996.,Web Server,1442444400000,1543791600000,no,http://httpd.apache.org/,
+10,PHP,,PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.,framework,1442444400000,1507244400000,no,http://www.php.net,
+11,Google Font API,['Fonts'],The Google Font API helps you add web fonts to any web page.,widgets,1442444400000,1633158000000,no,https://fonts.google.com,
+12,Prototype,['JavaScript Library'],Prototype is a javascript framework which aims to ease development of dynamic web applications.,javascript,1442444400000,1543791600000,no,http://www.prototypejs.org,
+13,script.aculo.us,['JavaScript Library'],"script.aculo.us provides you with easy-to-use, cross-browser user interface JavaScript libraries to make your web sites and web applications fly.",javascript,1442444400000,1543791600000,no,http://script.aculo.us/,
+14,Magento,['Open Source'],Hosted and self hosted eCommerce CMS system. Owned by Adobe.,shop,1442444400000,1543791600000,yes,http://www.magentocommerce.com/,
+15,jQuery,['JavaScript Library'],"JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",javascript,1442444400000,1633158000000,no,http://jquery.com,jQuery
+16,Fancybox,,"FancyBox is a tool for displaying images, html content and multi-media in a Mac-style ""lightbox"" that floats overtop of web page. ",javascript,1442444400000,1633158000000,no,http://fancybox.net/,
+17,JCarousel,"['jQuery Plugin', 'Slider']",jCarousel is a jQuery plugin for controlling a list of items in horizontal or vertical order.,javascript,1442444400000,1494025200000,no,http://sorgalla.com/jcarousel/,
+18,jQuery Cycle,['jQuery Plugin'],A slideshow plugin for JQuery that supports many different types of transition effects.,javascript,1442444400000,1494025200000,no,http://jquery.malsup.com/cycle/,jQuery
+19,Hover Intent,['UI'],"hoverIntent is a plug-in that attempts to determine the user's intent. It works like (and was derived from) jQuery's built-in hover. However, instead of immediately calling the onMouseOver function, it waits until the user's mouse slows down enough before making the call.",javascript,1442444400000,1494025200000,no,http://cherne.net/brian/resources/jquery.hoverIntent.html,
+20,Facebook for Websites,,Allows a user to make a website more sociable and connected with integrations from the hugely popular Facebook website.,javascript,1442444400000,1630825200000,no,http://developers.facebook.com/,
+21,Akamai,,Akamai provides a distributed computing platform for global Internet content and application delivery.,cdn,1367157600000,1470870000000,no,http://akamai.com,
+22,Google Analytics,"['Application Performance', 'Audience Measurement', 'Visitor Count Tracking']",Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.,analytics,1442444400000,1633158000000,no,http://google.com/analytics,
+23,Facebook Like Button,,The code to implement a Facebook Like Button on the page.,widgets,1367157600000,1630825200000,no,http://developers.facebook.com/docs/reference/plugins/like/,
+24,Content Delivery Network,,This page contains links that give the impression that some of the site contents are stored on a content delivery network.,CDN,1367157600000,1630825200000,no,http://en.wikipedia.org/wiki/Content_Delivery_Network,
+25,Facebook CDN,,This page has content that links to the Facebook content delivery network.,cdn,1367157600000,1531436400000,no,http://www.facebook.com,
+26,jQuery 1.7.1,,jQuery version 1.7.1,javascript,1442444400000,1454972400000,no,http://blog.jquery.com/2011/11/21/jquery-1-7-1-released/,jQuery
+27,jQuery 1.4.2,,jQuery version 1.4.2,javascript,1442444400000,1454972400000,no,http://blog.jquery.com/2010/02/19/jquery-142-released/,jQuery
+28,SPF,,The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.,mx,1397862000000,1572994800000,no,http://www.openspf.org/,
+29,Vocus Communications,['Australian hosting'],"Focus on providing high performance, high availability, and highly scalable communications solutions.",hosting,1402527600000,1407366000000,no,http://www.vocus.com.au/,
+30,Magento 1.5,['Non Platform'],Magento version 1.5,shop,1410476400000,1437519600000,no,http://www.magentocommerce.com/,Magento
+31,Facebook Like,['Social Sharing'],"Allows users to Like items they find on the web, similar to how you Like items within Facebook.",widgets,1428883200000,1630825200000,no,http://developers.facebook.com/docs/reference/plugins/like,
+32,Google Analytics Classic,,Classic Google Analytics - sites that are using non-universal analytics code.,analytics,1447196400000,1543791600000,no,https://developers.google.com/analytics/devguides/collection/gajs/,Google Analytics
+33,jQuery Easing,"['Animation', 'jQuery Plugin']","A jQuery extension that provides functionality to ""ease"" things onto or off of the screen.",javascript,1458601200000,1494025200000,no,http://gsgd.co.uk/sandbox/jquery/easing/,jQuery
+34,jQuery 1.8.2,,jQuery version 1.8.2,javascript,1458601200000,1494025200000,no,http://blog.jquery.com/2012/09/20/jquery-1-8-2-released/,jQuery
+35,Viewport Meta,,This page uses the viewport meta tag which means the content may be optimized for mobile content.,mobile,1458601200000,1630825200000,no,https://developers.google.com/speed/docs/insights/ConfigureViewport,
+36,SizzleJS,,"A pure-JavaScript CSS selector engine
+designed to be easily dropped in to a host library.",javascript,1461798000000,1484089200000,no,http://sizzlejs.com,
+37,GStatic Google Static Content,,Google has off-loaded static content (Javascript/Images/CSS) to a different domain name in an effort to reduce bandwidth usage and increase network performance for the end user.,cdn,1494025200000,1531436400000,no,https://google.com,
+38,AddToBookmarks,,"""Add To Bookmarks"" is usually referring to adding a link/URL to your Web Browser's bookmarks list/folder. This is the old way of managing your bookmarks. Now when you see ""Add To Bookmarks,"" it's referring to one of the ""Social Bookmarking"" sites, where you, your friends, and several thousands of strangers all post and interconnect their favorite links.",widgets,1496530800000,1543791600000,no,http://addtobookmarks.com/,
+39,Apache 2.4,,Apache version 2.4.*,Web Server,1496530800000,1507244400000,no,http://httpd.apache.org/docs/2.4,Apache
+40,jQuery Cookie,['jQuery Plugin'],"A simple, lightweight jQuery plugin for reading, writing and deleting cookies.",javascript,1496530800000,1630825200000,no,https://github.com/carhartl/jquery-cookie,jQuery
+41,Font Awesome,['Fonts'],Iconic font and CSS toolkit.,widgets,1496530800000,1633158000000,no,http://fontawesome.io,
+42,jQuery UI,"['jQuery Plugin', 'UI']","jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",javascript,1496530800000,1617346800000,no,http://jqueryui.com/,jQuery
+43,jQuery Parallax,,Page background effects.,javascript,1496530800000,1543791600000,no,http://www.ianlunn.co.uk/plugins/jquery-parallax/,jQuery
+44,OpenSSL,,"The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured, and Open Source toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS v1) protocols as well as a full-strength general purpose cryptography library.",Server,1496530800000,1507244400000,no,http://openssl.org,
+45,Porto,['Magento Theme'],Popular Magento Theme system.,framework,1496530800000,1543791600000,no,https://themeforest.net/item/porto-ultimate-responsive-magento-theme/9725864?ref=garazy,
+46,jQuery Mousewheel,['jQuery Plugin'],Adds mouse wheel support to the web site.,javascript,1496530800000,1543791600000,no,http://plugins.jquery.com/project/mousewheel,jQuery
+47,OpenSSL 1.0.1,,OpenSSL version 1.0.1,Server,1496530800000,1507244400000,no,http://www.openssl.org,OpenSSL
+48,Unix,,A *nix based operating system (undisclosed).,Server,1496530800000,1507244400000,no,,
+49,Limiter Modules,,Log Byte and Bandwidth Limiter modules.,Server,1496530800000,1507244400000,no,,
+50,Web24,"['Australian hosting', 'Dedicated Hosting']","Australian dedicated, reseller, virtual and web hosting solutions.",hosting,1496530800000,1507158000000,no,http://web24.net.au,
+51,jQuery Masonry,['UI'],Masonry is a layout plugin for jQuery. Think of it as the flip side of CSS floats.,javascript,1498518000000,1531436400000,no,http://desandro.com/resources/jquery-masonry/,jQuery
+52,Bootstrap.js,['JavaScript Library'],Twitter Bootstrap JS components.,javascript,1505084400000,1531436400000,no,https://getbootstrap.com/javascript/,
+53,imagesLoaded,,jQuery plugin for seeing if the images are loaded.,javascript,1505084400000,1531436400000,no,https://github.com/desandro/imagesloaded,
+54,jQuery Migrate,['Compatibility'],APIs and features removed from jQuery core,javascript,1505084400000,1505084400000,no,https://github.com/jquery/jquery-migrate,jQuery
+55,Zoom jQuery,,jQuery plugin for zooming images on mouseover.,javascript,1507158000000,1543791600000,no,https://github.com/jackmoore/zoom,jQuery
+56,OWL Carousel,['Slider'],Touch enabled jQuery plugin that lets you create a carousel slider.,javascript,1507244400000,1543791600000,no,http://owlgraphic.com/owlcarousel/,
+57,jQuery 1.11.3,,jQuery version 1.11.3,javascript,1507244400000,1543791600000,no,https://blog.jquery.com/2015/04/28/jquery-1-11-3-and-2-1-4-released-ios-fail-safe-edition/,jQuery
+58,Respond,['Compatibility'],"A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)",javascript,1507244400000,1543791600000,no,https://github.com/scottjehl/Respond,
+59,WOW,,Reveal CSS animation as you scroll down a page.,javascript,1507244400000,1543791600000,no,https://github.com/matthieua/WOW,
+60,Stellar.js,['jQuery Plugin'],Parallax scrolling system.,javascript,1507244400000,1543791600000,no,http://markdalgleish.com/projects/stellar.js,
+61,jQuery 2.1.3,,jQuery version 2.1.3,javascript,1507244400000,1543791600000,no,https://blog.jquery.com/.../jquery-1-11-2-and-2-1-3-released-safari-fail-safe-edition/,jQuery
+62,Digital Pacific,"['Australian hosting', 'Dedicated Hosting']",Australian based dedicated and web hosting services.,hosting,1509836400000,1573426800000,no,http://digitalpacific.com.au,
+63,CPanel SSL,,CPanel certificate.,ssl,1518735600000,1531436400000,no,http://cpanel.com,
+64,IPhone / Mobile Compatible,,The website contains code that allows the page to support IPhone / Mobile Content.,mobile,1529362800000,1630825200000,no,http://apple.com,
+65,SSL by Default,,The website redirects traffic to an HTTPS/SSL version by default.,ssl,1531177200000,1630825200000,no,http://trends.builtwith.com/ssl,
+66,Shopify Hosted,,The IP of this system is on Shopify.,hosting,1576710000000,1630825200000,no,http://shopify.com,
+67,Mobile Non Scaleable Content,,"This content is formatted for mobile devices, it does not allow the content to be scaled.",mobile,1577142000000,1630825200000,no,http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html,
+68,AJAX Libraries API,,"The AJAX Libraries API is a content distribution network and loading architecture for the most popular, open source JavaScript libraries.",cdn,1577142000000,1630825200000,no,http://code.google.com/apis/ajaxlibs/documentation/,
+69,Google Hosted Libraries,,"Google Hosted Libraries is a globally available content distribution network for the most popular, open-source JavaScript libraries.",javascript,1577142000000,1630825200000,no,https://developers.google.com/speed/libraries/,
+70,WebFont Loader,,"WebFont Loader gives you added control when using linked fonts via @font-face, from Typekit.",javascript,1577142000000,1630825200000,no,https://github.com/typekit/webfontloader,
+71,Google Hosted Web Font Loader,,Web Font Loader hosted at Google.,javascript,1577142000000,1630825200000,no,https://developers.google.com/speed/libraries/,Google Hosted Libraries
+72,Shopify,['Hosted Solution'],Hosted shopping experience with multiple themes and requires very little programming experience.,shop,1577142000000,1635490800000,yes,http://shopify.com,
+73,Shopify Australian Dollar,['Non Platform'],Shopify website which defaults to Australian Dollar currency.,shop,1577142000000,1630825200000,no,http://shopify.com,Shopify
+74,Shopify Custom Theme,"['Non Platform', 'Shopify Theme']",This site is using a custom Shopify Theme and not one from the Shopify Theme template library.,shop,1577142000000,1630825200000,no,https://themes.shopify.com/,Shopify
+75,tawk.to,['Live Chat'],tawk.to is a free live chat app that lets you monitor and chat with visitors.,widgets,1577142000000,1630825200000,no,http://tawk.to/,
+76,Shopify Conversions,['Non Platform'],This Shopify instance uses Shopify's analytics object to load tools like Google Analytics.,shop,1577142000000,1630825200000,no,http://shopify.com,Shopify
+77,Google Universal Analytics,,"The analytics.js JavaScript snippet is a new way to measure how users interact with your website. It is similar to the previous Google tracking code, ga.js, but offers more flexibility for developers to customize their implementations.",analytics,1577142000000,1630825200000,no,https://developers.google.com/analytics/devguides/collection/analyticsjs/,Google Analytics
+78,html5shiv,['Compatibility'],HTML5 IE enabling script shim.,javascript,1577142000000,1630825200000,no,https://github.com/afarkas/html5shiv,
+79,Organization Schema,['Schema'],"Organization i.e. school, NGO, Corporation.",framework,1577142000000,1630825200000,no,https://schema.org/Organization,
+80,Japanese Yen,['Currency'],The website uses the ¥ symbol on its website - meaning it may accept payment in this Japanese currency.,payment,1577142000000,1618815600000,no,https://en.wikipedia.org/wiki/Japanese_yen,
+81,Euro,['Currency'],The website uses the € symbol on its website - meaning it may accept payment in Euros.,payment,1577142000000,1630825200000,no,https://en.wikipedia.org/wiki/Euro,
+82,Instafeed.js,,A way to add Instagram photos to your website.,javascript,1577142000000,1595833200000,no,http://instafeedjs.com/,
+83,CDN JS,,CloudFlare's CDN with popular javascript frameworks available.,cdn,1577142000000,1630825200000,no,http://cdnjs.com,
+84,Microsoft Ajax Content Delivery Network,,The Microsoft Ajax Content Delivery Network hosts popular third party JavaScript libraries.,cdn,1577142000000,1630825200000,no,http://www.asp.net/ajaxlibrary/CDN.ashx,
+85,jQuery Tmpl,,A template engine for jQuery,javascript,1577142000000,1630825200000,no,https://github.com/jquery/jquery-tmpl,jQuery
+86,Slick JS,['Animation'],Fully responsive carousel library.,javascript,1577142000000,1630825200000,no,http://kenwheeler.github.io/slick,
+87,Cloudflare,,Automatically optimizes the delivery of your web pages so your visitors get the fastest page load times and best performance.,cdn,1577142000000,1633158000000,no,http://www.cloudflare.com/,
+88,Google Apps for Business,['Business Email Hosting'],"Web-based email, calendar, and documents for teams. Renamed to Google Apps for Work, but now known as G Suite from Google Cloud.",mx,1577142000000,1635490800000,no,http://www.google.com/a,
+89,Cloudflare Hosting,"['US hosting', 'Cloud Hosting', 'Cloud PaaS']",Supercharged web hosting service.,hosting,1582671600000,1606636800000,no,http://cloudflare.com,
+90,Facebook Pixel for Shopify,,Facebook Pixel specifically for Shopify.,analytics,1588978800000,1610179200000,no,https://help.shopify.com/en/manual/promoting-marketing/analyze-marketing/facebook-pixel,Facebook Pixel
+91,COVID-19,,This website mentions COVID-19 / Novel Coronavirus.,widgets,1588978800000,1614585600000,no,https://www.who.int/emergencies/diseases/novel-coronavirus-2019,
+92,core-js,['Framework'],Modular standard library for JavaScript.,javascript,1588978800000,1630825200000,no,https://github.com/zloirock/core-js,
+93,Isotope,,A jQuery plugin for magical layouts,javascript,1588978800000,1630825200000,no,http://isotope.metafizzy.co,
+94,Modernizr,['Compatibility'],Modernizr allows you to target specific browser functionality in your stylesheet.,javascript,1588978800000,1633158000000,no,http://www.modernizr.com,
+95,Swiper,['Slider'],Mobile Touch Slider from IDangerous.,javascript,1588978800000,1630825200000,no,http://idangero.us/swiper/,
+96,LetsEncrypt,['Root Authority'],Let’s Encrypt is a free open Certificate Authority.,ssl,1588978800000,1630825200000,no,https://letsencrypt.org,
+97,Google AdsBot Disallow,,The website has disallow rules for Google AdsBot.,robots,1594249200000,1630825200000,no,https://ads.google.com,
+98,Ahrefs Bot Disallow,,The website has disallow rules for Ahrefs Bot.,robots,1594249200000,1630825200000,no,https://ahrefs.com,
+99,Slick,,Standalone CSS Selector Parser and Engine from MooTools.,javascript,1591052400000,1633158000000,no,https://github.com/mootools/slick,
+100,Bugsnag,['Error Tracking'],Bugsnag captures errors from your web and mobile applications.,widgets,1591052400000,1630825200000,maybe,http://bugsnag.com/,
+101,Bold Commerce,['Conversion Optimization'],Shopify app development and partner to help increase sales. Previously Shappify.,analytics,1595833200000,1630825200000,yes,https://boldcommerce.com/,
+102,reCAPTCHA v3,['CAPTCHA'],eCAPTCHA v3 returns a score for each request without user friction.,widgets,1595833200000,1599375600000,no,https://developers.google.com/recaptcha/docs/v3,reCAPTCHA
+103,reCAPTCHA,['CAPTCHA'],Anti-bot CAPTCHA widget from Google.,widgets,1595833200000,1627887600000,no,https://www.google.com/recaptcha/intro/index.html,
+104,es6 promise,,A polyfill for ES6-style Promises.,javascript,1595833200000,1630825200000,no,https://github.com/stefanpenner/es6-promise,
+105,Ruby on Rails,,Ruby on Rails is an open-source web framework that is optimized for programmer happiness and sustainable productivity.,framework,1597388400000,1599375600000,no,http://www.rubyonrails.org/,
+106,Visa,['Payment Acceptance'],The website accepts payments with Visa.,payment,1599260400000,1604214000000,no,http://visa.com,
+107,MasterCard,['Payment Acceptance'],The website accepts payments with MasterCard.,payment,1599260400000,1604214000000,no,http://mastercard.com,
+108,American Express,['Payment Acceptance'],The website accepts payments with American Express.,payment,1599260400000,1604214000000,no,http://amex.com,
+109,Pound Sterling,['Currency'],The website uses the £ symbol on its website - meaning it may accept payment in this British currency.,payment,1599260400000,1604214000000,no,https://en.wikipedia.org/wiki/Pound_sign,
+110,Cloudflare JS,,Loads content from Cloudflare CDN.,cdn,1599260400000,1630825200000,no,https://cloudflare.com,
+111,MyShopify,,Hosted Shopify store.,link,1599375600000,1630825200000,no,http://shopify.com,
+112,Shopify Gift Cards,"['Non Platform', 'Shopify App']",This Shopify website supports the redemption of Shopify gift cards which may infer they are using Shopify Plus.,shop,1600383600000,1630825200000,maybe,https://help.shopify.com/en/manual/products/gift-card-products,Shopify
+113,Shopify Discounts,"['Non Platform', 'Shopify App']",This Shopify website supports and uses discount codes.,shop,1600383600000,1630825200000,no,https://help.shopify.com/en/manual/discounts,Shopify
+114,Apple Pay,['Payment Acceptance'],The website accepts payments with Apple Pay.,payment,1600383600000,1630825200000,no,https://apple.com/apple-pay/,
+115,PayPal,['Payment Acceptance'],The website accepts payments with PayPal.,payment,1600383600000,1630825200000,no,http://paypal.com,
+116,Australia Shipping Only,"['Non Platform', 'Shipping Provider', 'Shopify App']",Shipping options to Australia only.,shop,1600383600000,1600930800000,no,https://shopify.com,Shopify
+117,Australia Post,,Australian government owned postal service.,shipping,1600383600000,1630825200000,no,http://auspost.com.au,
+118,Afterpay,['Pay Later'],Buy now pay later system from Australia. Owned by Square.,payment,1604185200000,1633158000000,maybe,https://www.afterpay.com.au,
+119,Australia and New Zealand Shipping Only,"['Non Platform', 'Shipping Provider', 'Shopify App']",Shipping options to Australia and New Zealand only.,shop,1606636800000,1610179200000,no,https://shopify.com,Shopify
+120,RetargetApp,['Retargeting / Remarketing'],Retargeting made easy system.,ads,1610179200000,1630825200000,no,http://retargetapp.com,
+121,Shipping to over 50 Countries,"['Non Platform', 'Shipping Provider', 'Shopify App']",Shopify store shipping to over 50 countries (but less than 100).,shop,1614499200000,1630825200000,no,https://shopify.com,Shopify
+122,AllFetch Fullfillment,['Non Platform'],eCommerce order fulfillment service.,shop,1616540400000,1630825200000,maybe,https://allfetch.com,
+123,Bold Options,"['Non Platform', 'Shopify App']",Unlimited product options system.,shop,1614153600000,1630825200000,no,https://boldcommerce.com/product-options,Shopify
+124,Ships to China,"['Non Platform', 'Shipping Provider', 'Shopify App']",Shopify store shipping to China.,shop,1620543600000,1630825200000,no,https://shopify.com,Shopify
+125,Ruby on Rails Token,,Ruby on Rails is an open-source web framework that is optimized for programmer happiness and sustainable productivity. Note that Ruby on Rails has two detection techniques and this is one of them.,framework,1620543600000,1630825200000,no,http://www.rubyonrails.org/,
+126,PayPal Button,['Checkout Buttons'],This page contains content from PayPal which includes checkout buttons.,payment,1620543600000,1630825200000,no,http://paypal.com,
+127,Smile.io for Shopify,"['Non Platform', 'Shopify App']","Points, VIP reward program plugin for Shopify.",shop,1620543600000,1630825200000,no,https://apps.shopify.com/partners/smile-io,Shopify
+128,Smile IO,['eCommerce'],Customer loyalty rewards incentive program widget for shops previously known as Sweet Tooth.,widgets,1620543600000,1630825200000,yes,http://www.sweettoothrewards.com/,
+129,teeinblue,['eCommerce'],Personalize print of demand app builder.,widgets,1624863600000,1630825200000,maybe,https://teeinblue.com,
+130,Vue,['JavaScript Library'],vue.js a JavaScript MVVM framework.,javascript,1624863600000,1630825200000,no,http://vuejs.org,
+131,jsDelivr,,"A free CDN where Javascript developers can host their files. Encompasses MaxCDN, and BootstrapCDN.",cdn,1622617200000,1630566000000,no,http://www.jsdelivr.com/,

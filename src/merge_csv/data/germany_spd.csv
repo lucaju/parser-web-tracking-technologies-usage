@@ -1,0 +1,86 @@
+,Name,Categories,Description,Tag,FirstDetected,LastDetected,IsPremium,Link,Parent
+0,Modernizr 2.5,,Modernizr version 2.5.*,javascript,1385679600000,1473462000000,no,http://modernizr.com/news/modernizr-25/,Modernizr
+1,jQuery 1.7.1,,jQuery version 1.7.1,javascript,1385679600000,1473462000000,no,http://blog.jquery.com/2011/11/21/jquery-1-7-1-released/,jQuery
+2,bxSlider,"['jQuery Plugin', 'Slider', 'UI']",Response jQuery Content Slider,javascript,1379631600000,1633158000000,no,http://bxslider.com/,
+3,Social Share Privacy,['jQuery Plugin'],Per default only a gray mock up image of a like-button is embedded. Only if a user clicks this button the real like-button is loaded and information sent to the social network,javascript,1379631600000,1473462000000,no,http://panzi.github.io/SocialSharePrivacy/,
+4,jQuery Placeholder,['jQuery Plugin'],The jQuery placeholder easily allows you to emulate the placeholder attribute on input fields for all browsers.,javascript,1379631600000,1636182000000,no,https://github.com/mathiasbynens/jquery-placeholder,jQuery
+5,Google API,,The website uses some form of Google APIs to provide interaction with the many API's Google Providers.,javascript,1378422000000,1473462000000,no,http://code.google.com,
+6,Google Maps API,,Google Maps has a wide array of APIs that let you embed the functionality of Google Maps.,mapping,1367676000000,1473462000000,no,https://developers.google.com/maps/,
+7,RSS,,"A family of web feed formats used to publish frequently updated content such as blog entries, news headlines or podcasts.",feeds,1365080400000,1636182000000,no,http://en.wikipedia.org/wiki/RSS_(file_format),
+8,Twitter Timeline,,"Add your tweets, favourites or searches as a timeline to the website.",widgets,1364302800000,1424905200000,no,http://twitter.com/settings/widgets,
+9,GStatic Google Static Content,,Google has off-loaded static content (Javascript/Images/CSS) to a different domain name in an effort to reduce bandwidth usage and increase network performance for the end user.,cdn,1355490000000,1581030000000,no,https://google.com,
+10,Twitter CDN,,"This page contains content sourced from the Twitter CDN, either by the use of Widgets or linking to image content on twimg.com currently hosted by Akamai and Amazon.",cdn,1355490000000,1581030000000,no,http://twitter.com,
+11,Hover Intent,['UI'],"hoverIntent is a plug-in that attempts to determine the user's intent. It works like (and was derived from) jQuery's built-in hover. However, instead of immediately calling the onMouseOver function, it waits until the user's mouse slows down enough before making the call.",javascript,1349359200000,1473462000000,no,http://cherne.net/brian/resources/jquery.hoverIntent.html,
+12,Modernizr,['Compatibility'],Modernizr allows you to target specific browser functionality in your stylesheet.,javascript,1349359200000,1636182000000,no,http://www.modernizr.com,
+13,Twitter Platform,,The page embeds the Twitter platform in one method or another.,javascript,1349359200000,1424905200000,no,http://twitter.com/about/resources,
+14,Content Delivery Network,,This page contains links that give the impression that some of the site contents are stored on a content delivery network.,CDN,1324213200000,1634194800000,no,http://en.wikipedia.org/wiki/Content_Delivery_Network,
+15,Google JS Api,,Use the Google Loader API. Also see Google API for more generic calls to Google.,javascript,1320584400000,1473462000000,no,https://developers.google.com/loader/,
+16,Matomo,"['Audience Measurement', 'Conversion Optimization', 'Site Optimization']","Matomo is an open source web analytics software. It gives interesting reports on your website visitors, your popular pages, the search engines keywords they used, the language they speak and so much more. Previously known as Piwik Web Analytics.",analytics,1320584400000,1636268400000,no,http://matomo.org,
+17,Facebook for Websites,,Allows a user to make a website more sociable and connected with integrations from the hugely popular Facebook website.,javascript,1315144800000,1346940000000,no,http://developers.facebook.com/,
+18,Google Webmaster,,Webmaster tools provide you with a free and easy way to make your site more Google-friendly.,Web Master,1315144800000,1473462000000,no,http://www.google.com/webmasters/,
+19,jQuery,['JavaScript Library'],"JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",javascript,1315144800000,1636268400000,no,http://jquery.com,jQuery
+20,jQuery UI,"['jQuery Plugin', 'UI']","jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",javascript,1315144800000,1636182000000,no,http://jqueryui.com/,jQuery
+21,jQuery Easing,"['Animation', 'jQuery Plugin']","A jQuery extension that provides functionality to ""ease"" things onto or off of the screen.",javascript,1315144800000,1633158000000,no,http://gsgd.co.uk/sandbox/jquery/easing/,jQuery
+22,jQuery Star Rating,,Star Rating Plugin is a plugin for the jQuery JavaScript library that creates a non-obtrusive star rating control.,javascript,1315144800000,1473462000000,no,http://www.fyneworks.com/jquery/star-rating/,jQuery
+23,jQuery Form,['jQuery Plugin'],jQuery Form Plugin allows you to easily and unobtrusively upgrade HTML forms to use AJAX.,javascript,1315144800000,1473462000000,no,http://jquery.malsup.com/form/,jQuery
+24,jQuery Validate,['jQuery Plugin'],JQuery Form Validation Plugin.,javascript,1315144800000,1634194800000,no,http://jqueryvalidation.org,jQuery
+25,SWFObject,,SWFObject is a small Javascript file used for embedding Adobe Flash content. The script can detect the Flash plug-in in all major web browsers (on Mac and PC) and is designed to make embedding Flash movies as easy as possible.,javascript,1315144800000,1473462000000,no,http://blog.deconcept.com/swfobject/,
+26,Google Maps,['Maps'],Google maps embedded into the webpage.,mapping,1315144800000,1473462000000,no,http://www.google.com/apis/maps/,
+27,Facebook Like,['Social Sharing'],"Allows users to Like items they find on the web, similar to how you Like items within Facebook.",widgets,1315144800000,1427238000000,no,http://developers.facebook.com/docs/reference/plugins/like,
+28,Facebook Like Button,,The code to implement a Facebook Like Button on the page.,widgets,1315144800000,1328360400000,no,http://developers.facebook.com/docs/reference/plugins/like/,
+29,Facebook SDK,," JavaScript SDK enables you to access all of the features of the Graph API via JavaScript, and it provides a rich set of client-side functionality for authentication and sharing. It differs from Facebook Connect.",javascript,1315144800000,1328360400000,no,http://developers.facebook.com/docs/reference/javascript/,
+30,Java EE,,"Java Platform, Enterprise Edition (Java EE) is the industry standard for developing portable, robust, scalable and secure server-side Java applications.",framework,1315144800000,1599346800000,no,http://java.sun.com/javaee/,
+31,SoundCloud,,SoundCloud is a platform that puts sound at the heart of communities and websites.,media,1389222000000,1636444800000,no,http://soundcloud.com/,
+32,Dublin Core,,The website contains dublin core meta data extensions.,feeds,1391565886701,1547766000000,no,http://dublincore.org,
+33,yepnope,,yepnope is an asynchronous conditional resource loader that allows you to load only the scripts that your users need.,javascript,1392332400000,1634194800000,no,http://yepnopejs.com/,
+34,YouTube,"['Live Stream / Webcast', 'Online Video Platform', 'Social Video Platform']",Embedded videos from YouTube.,media,1400454000000,1636268400000,no,http://youtube.com,
+35,html5shiv,['Compatibility'],HTML5 IE enabling script shim.,javascript,1402873200000,1635058800000,no,https://github.com/afarkas/html5shiv,
+36,nginx,,nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.,Web Server,1421881200000,1636182000000,no,http://nginx.net/,
+37,SSL by Default,,The website redirects traffic to an HTTPS/SSL version by default.,ssl,1424300400000,1636268400000,no,http://trends.builtwith.com/ssl,
+38,Key-Systems,['German hosting'],"Network infrastructure from Key-Systems based in Germany, encompassing domaindiscount24.",hosting,1424300400000,1527894000000,no,http://key-systems.net,
+39,Google Maps for Work,,Google Maps for work.,mapping,1435730334892,1473462000000,no,https://www.google.com/work/mapsearth/,Google Maps
+40,nginx 1.4,,nginx version 1.4.*,Web Server,1435791600000,1452466800000,no,http://nginx.org/en/CHANGES-1.4,nginx
+41,Ubuntu,,"Ubuntu is a free, Debian derived Linux-based operating system, available with both community and professional support.",Server,1435791600000,1634194800000,no,http://ubuntu.com,
+42,TYPO3,"['Community CMS', 'Enterprise', 'Open Source']",TYPO3 Content Management Framework for enterprise purposes on the web and in intranets written in PHP.,cms,1449702000000,1636444800000,no,http://www.typo3.org,
+43,Apple Mobile Web Clips Icon,,"This page contains an icon for iPhone, iPad and iTouch devices.",mobile,1449702000000,1636444800000,no,http://developer.apple.com/library/iOS/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html,
+44,PHP,,PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.,framework,1449702000000,1633158000000,no,http://www.php.net,
+45,Viewport Meta,,This page uses the viewport meta tag which means the content may be optimized for mobile content.,mobile,1449702000000,1636444800000,no,https://developers.google.com/speed/docs/insights/ConfigureViewport,
+46,Thawte SSL,['Root Authority'],Certificated provided by Thawte.,ssl,1454972400000,1636182000000,no,http://thawte.com,
+47,lazySizes,,"Lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.",javascript,1463007600000,1636268400000,no,http://github.com/aFarkas/lazysizes,
+48,DoubleClick.Net,,"DoubleClick enables agencies, marketers and publishers to work together successfully and profit from their digital marketing investments.",ads,1486681200000,1617433200000,no,http://www.doubleclick.com,
+49,WebEx Panel,,WebEx system.,widgets,1487199600000,1591052400000,no,http://webex.com,
+50,German,,Website content is written in German.,language,1496358000000,1636444800000,no,http://de.wikipedia.org,
+51,SPF,,The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.,mx,1501801200000,1636268400000,no,http://www.openspf.org/,
+52,Pound Sterling,['Currency'],The website uses the £ symbol on its website - meaning it may accept payment in this British currency.,payment,1506726000000,1633158000000,no,https://en.wikipedia.org/wiki/Pound_sign,
+53,Japanese Yen,['Currency'],The website uses the ¥ symbol on its website - meaning it may accept payment in this Japanese currency.,payment,1507244400000,1615017600000,no,https://en.wikipedia.org/wiki/Japanese_yen,
+54,Picturefill,['Compatibility'],Responsive image polyfill.,javascript,1518217200000,1636268400000,no,http://scottjehl.github.io/picturefill/,
+55,Adobe Connect,,"Adobe Connect web conferencing software offers online meeting functionality, virtual classrooms and large scale webinars.",widgets,1519858800000,1591052400000,maybe,http://www.adobe.com/products/adobeconnect.html,
+56,IPhone / Mobile Compatible,,The website contains code that allows the page to support IPhone / Mobile Content.,mobile,1526338800000,1636444800000,no,http://apple.com,
+57,Font Awesome,['Fonts'],Iconic font and CSS toolkit.,widgets,1531090800000,1636268400000,no,http://fontawesome.io,
+58,jQuery 2.2.4,,jQuery version 2.2.4,javascript,1531090800000,1626764400000,no,https://blog.jquery.com/2016/05/20/jquery-1-12-4-and-2-2-4-released,jQuery
+59,Bootstrap.js,['JavaScript Library'],Twitter Bootstrap JS components.,javascript,1534892400000,1581030000000,no,https://getbootstrap.com/javascript/,
+60,Comodo SSL,['Root Authority'],Certificate provided by Comodo.,ssl,1542927600000,1605600000000,no,http://comodo.com,
+61,Comodo SSL Wildcard,['Wildcard'],Comodo wildcard SSL certificate.,ssl,1542927600000,1592262000000,no,http://comodosslstore.com/sgc-wildcard-ssl.aspx,Comodo SSL
+62,Varnish,,Varnish is a web accelerator / reverse proxy caching server.,Web Server,1545346800000,1636444800000,no,http://varnish-software.com/,
+63,Impressum,,This page has a link to an 'Impressum' page which is required under German law for German websites.,link,1557961200000,1636444800000,no,https://kb.builtwith.com/special-reports/link-tracking/,
+64,Euro,['Currency'],The website uses the € symbol on its website - meaning it may accept payment in Euros.,payment,1558738800000,1636358400000,no,https://en.wikipedia.org/wiki/Euro,
+65,Shutterstock,['Image Provider'],Images on this website may have been sourced from Shutterstock.,widgets,1563231600000,1621839600000,no,http://shutterstock.com,
+66,Microsoft Azure DNS,,This domain is verified with Microsoft Azure.,mx,1578783600000,1636268400000,no,http://windowsazure.com,
+67,Slick JS,['Animation'],Fully responsive carousel library.,javascript,1588201200000,1636268400000,no,http://kenwheeler.github.io/slick,
+68,American Express,['Payment Acceptance'],The website accepts payments with American Express.,payment,1588892400000,1636444800000,no,http://amex.com,
+69,JSON 3,['Framework'],JSON 3 is a modern JSON implementation compatible with a variety of JavaScript platforms.,javascript,1589756400000,1636268400000,no,https://bestiejs.github.io/json3/,
+70,WordPress,"['Open Source', 'Blog']","WordPress is a state-of-the-art semantic personal publishing platform with a focus on aesthetics, web standards, and usability.",cms,1591052400000,1591052400000,no,http://wordpress.org,
+71,core-js,['Framework'],Modular standard library for JavaScript.,javascript,1594335600000,1636268400000,no,https://github.com/zloirock/core-js,
+72,Sectigo SSL,,SSL from Sectigo formerly Comodo.,ssl,1606118400000,1636444800000,no,https://sectigo.com,
+73,Sectigo Domain SSL,,SSL registration with Sectigo (formerly Comodo CA).,ssl,1606118400000,1636444800000,no,https://sectigo.com,Sectigo SSL
+74,Pusher,,Pusher is a realtime service that complements your existing server architecture.,framework,1606982400000,1636444800000,yes,http://pusher.com,
+75,Vue,['JavaScript Library'],vue.js a JavaScript MVVM framework.,javascript,1615536000000,1636268400000,no,http://vuejs.org,
+76,YouTube Privacy Enchanced,,Contains YouTube no cookie content.,media,1615536000000,1636268400000,no,https://youtube.com,
+77,Moment JS,['JavaScript Library'],"moment.js is a date library for parsing, validating, manipulating, and formatting dates.",javascript,1616828400000,1636268400000,no,http://momentjs.com,
+78,Getty Images,['Image Provider'],This website has images that may have been sourced from Getty Images.,widgets,1620342000000,1634194800000,no,http://gettyimages.com,
+79,COVID-19,,This website mentions COVID-19 / Novel Coronavirus.,widgets,1620342000000,1636182000000,no,https://www.who.int/emergencies/diseases/novel-coronavirus-2019,
+80,Wirecard,['Payments Processor'],Wirecard is a specialist in payment processing and issuing.,payment,1623740400000,1623826800000,no,http://wirecard.com,
+81,Altruja,,Online fundraising system.,widgets,1627714800000,1636444800000,no,http://altruja.de,
+82,Intersection Observer,,API that can be used to understand the visibility and position of DOM elements relative to a containing element or to the top-level viewport.,javascript,1632553200000,1636268400000,no,https://www.w3.org/TR/intersection-observer/,
+83,CloudFront,,"Amazon CloudFront is a web service for content delivery. It integrates with other Amazon Web Services to give developers and businesses an easy way to distribute content to end users with low latency, high data transfer speeds, and no commitments.",cdn,1632294000000,1635058800000,no,http://aws.amazon.com/cloudfront/,
+84,Varnish 4.x,,Varnish version 4.x,Web Server,1634540400000,1636444800000,no,https://varnish-cache.org/,Varnish

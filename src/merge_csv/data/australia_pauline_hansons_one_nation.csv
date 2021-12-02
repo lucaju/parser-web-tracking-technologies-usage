@@ -1,0 +1,124 @@
+,Name,Categories,Description,Tag,FirstDetected,LastDetected,IsPremium,Link,Parent
+0,Exigent,"['Dedicated Hosting', 'Australian hosting']","Enterprise, virtual and dedicated web hosting.",hosting,1389481200000,1475535600000,no,http://www.exigent.com.au/,
+1,SPF,,The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.,mx,1427238000000,1634626800000,no,http://www.openspf.org/,
+2,Comodo PositiveSSL,,Comodo Positive SSL certificate.,ssl,1458601200000,1462834800000,no,http://www.positivessl.com/ssl-certificate-positivessl.php,
+3,Trustwave SSL,['Root Authority'],Certificate provided by Trustwave.,ssl,1467327600000,1475535600000,no,http://trustwave.com,
+4,Adobe Business Catalyst,"['eCommerce Enabled', 'Enterprise', 'Hosted Solution']",Deliver powerful business websites and online stores to your clients with an all-in-one hosted solution,cms,1479855600000,1512342000000,yes,http://www.businesscatalyst.com/,
+5,OpenResty,,Application server and framework system.,framework,1479855600000,1512342000000,no,http://openresty.org,
+6,jQuery,['JavaScript Library'],"JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",javascript,1479855600000,1635490800000,no,http://jquery.com,jQuery
+7,Modernizr 2.6,,Modernizr version 2.6.*,javascript,1479855600000,1634626800000,no,http://modernizr.com/news/modernizr-260/,Modernizr
+8,Font Awesome,['Fonts'],Iconic font and CSS toolkit.,widgets,1479855600000,1634626800000,no,http://fontawesome.io,
+9,ASP.NET,,"ASP.NET is a web application framework marketed by Microsoft that programmers can use to build dynamic web sites, web applications and XML web services. It is part of Microsoft's .NET platform and is the successor to Microsoft's Active Server Pages (ASP) technology.",framework,1479855600000,1634626800000,no,http://www.asp.net,
+10,Amazon,"['Cloud Hosting', 'Cloud PaaS']",This site is hosted on Amazon AWS EC2 Infrastructure.,hosting,1479855600000,1512169200000,no,http://aws.amazon.com,
+11,Nivo Slider,['Slider'],A polished JQuery Slider plugin.,javascript,1479855600000,1512342000000,no,http://nivo.dev7studios.com/,
+12,Facebook Custom Audiences,['Retargeting / Remarketing'],Custom Audiences from your website makes it possible to reach people who visit your website and deliver the right message to them on Facebook.,ads,1479855600000,1635490800000,no,https://developers.facebook.com/docs/reference/ads-api/custom-audience-website,
+13,Modernizr,['Compatibility'],Modernizr allows you to target specific browser functionality in your stylesheet.,javascript,1479855600000,1634626800000,no,http://www.modernizr.com,
+14,Facebook Pixel,,Facebook Pixel is Facebooks conversion tracking system for ads on Facebook to websites.,analytics,1479855600000,1635490800000,no,https://www.facebook.com/business/help/952192354843755,
+15,Google Font API,['Fonts'],The Google Font API helps you add web fonts to any web page.,widgets,1479855600000,1634626800000,no,https://fonts.google.com,
+16,YouTube,"['Live Stream / Webcast', 'Online Video Platform', 'Social Video Platform']",Embedded videos from YouTube.,media,1479855600000,1530399600000,no,http://youtube.com,
+17,Facebook SDK,," JavaScript SDK enables you to access all of the features of the Graph API via JavaScript, and it provides a rich set of client-side functionality for authentication and sharing. It differs from Facebook Connect.",javascript,1479855600000,1635490800000,no,http://developers.facebook.com/docs/reference/javascript/,
+18,Isotope,,A jQuery plugin for magical layouts,javascript,1479855600000,1520982000000,no,http://isotope.metafizzy.co,
+19,Facebook for Websites,,Allows a user to make a website more sociable and connected with integrations from the hugely popular Facebook website.,javascript,1479855600000,1635490800000,no,http://developers.facebook.com/,
+20,Typekit,,Typekit is the easiest way to use real fonts on the web. It's a subscription-based service for linking to high-quality Open Type fonts from some of the world's best type foundries.,widgets,1479855600000,1635490800000,no,http://typekit.com,
+21,Amazon Sydney Region,['Australian hosting'],Amazon Hosted EC2 Instances in Sydney,hosting,1479855600000,1510095600000,no,http://aws.amazon.com,Amazon
+22,Viewport Meta,,This page uses the viewport meta tag which means the content may be optimized for mobile content.,mobile,1479855600000,1635490800000,no,https://developers.google.com/speed/docs/insights/ConfigureViewport,
+23,Shopify Hosted Email,['Web Hosting Provider Email'],Shopify provides forwarding emails from domains registered at Shopify.,mx,1479855600000,1512169200000,no,https://shopify.com,
+24,DigiCert SSL,['Root Authority'],Certificate provided by DigiCert.,ssl,1479855600000,1510095600000,no,http://www.digicert.com/,
+25,CDN JS,,CloudFlare's CDN with popular javascript frameworks available.,cdn,1479855600000,1633244400000,no,http://cdnjs.com,
+26,html5shiv,['Compatibility'],HTML5 IE enabling script shim.,javascript,1481324400000,1634626800000,no,https://github.com/afarkas/html5shiv,
+27,yepnope,,yepnope is an asynchronous conditional resource loader that allows you to load only the scripts that your users need.,javascript,1481324400000,1512169200000,no,http://yepnopejs.com/,
+28,Facebook CDN,,This page has content that links to the Facebook content delivery network.,cdn,1485990000000,1634626800000,no,http://www.facebook.com,
+29,Copyright Year 2015,,Webpage has a copyright year of 2015 with no detectable mention of the current year.,copyright,1488582000000,1488582000000,no,https://en.wikipedia.org/wiki/Copyright,
+30,GStatic Google Static Content,,Google has off-loaded static content (Javascript/Images/CSS) to a different domain name in an effort to reduce bandwidth usage and increase network performance for the end user.,cdn,1498431600000,1634626800000,no,https://google.com,
+31,Bootstrap.js,['JavaScript Library'],Twitter Bootstrap JS components.,javascript,1505084400000,1592002800000,no,https://getbootstrap.com/javascript/,
+32,jQuery 1.10.1,,jQuery version 1.10.1,javascript,1507244400000,1512342000000,no,https://blog.jquery.com/2013/05/30/jquery-1-10-1-and-2-0-2-released,jQuery
+33,Ekko Lightbox,,A lightbox gallery plugin for Bootstrap.,javascript,1507244400000,1512342000000,no,https://github.com/ashleydw/lightbox,
+34,Typekit Async,,Async version of Typekit.,widgets,1507244400000,1512342000000,no,https://typekit.com/,Typekit
+35,Facebook Signal,,"Journalists use Signal to surface relevant trends, photos, videos and posts from Facebook and Instagram for use in their storytelling and reporting.",analytics,1512169200000,1589497200000,no,https://www.facebook.com/facebookmedia/get-started/signal,
+36,Comodo SSL,['Root Authority'],Certificate provided by Comodo.,ssl,1512342000000,1552431600000,no,http://comodo.com,
+37,MailChimp,['Feedback Forms and Surveys'],MailChimp is a widely used Mailng List delivery and support service.,widgets,1512342000000,1512342000000,maybe,http://www.mailchimp.com,
+38,Unified Layer,['US hosting'],"Unified Layer is a brand owned by EIG, an owner of over 50 hosting providers.",hosting,1514156400000,1634626800000,no,http://www.enduranceinternational.com/,
+39,nginx,,nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.,Web Server,1514156400000,1598137200000,no,http://nginx.net/,
+40,Wordpress Plugins,,Plugins are tools to extend the functionality of WordPress. The website uses various plugins from WordPress to provide additional functionality. Some of them may be listed here.,widgets,1514156400000,1634626800000,no,http://codex.wordpress.org/Plugins,
+41,BlueHost DNS,,DNS services provided by BlueHost.,ns,1514156400000,1633935600000,no,http://bluehost.com,
+42,WordPress,"['Open Source', 'Blog']","WordPress is a state-of-the-art semantic personal publishing platform with a focus on aesthetics, web standards, and usability.",cms,1514156400000,1634626800000,no,http://wordpress.org,
+43,PHP,,PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.,framework,1514156400000,1633158000000,no,http://www.php.net,
+44,Wordpress Daily Activity,,The WordPress site has new blog activity on a daily interval.,cms,1518735600000,1523228400000,no,http://wordpress.com,WordPress
+45,Yoast Plugins,['WordPress Plugins'],SEO based plugins from Yoast.,widgets,1520550000000,1634626800000,no,http://yoast.com/wordpress/seo/,
+46,Fizzy UI Utils,,UI utilities & helpers,javascript,1520550000000,1625986800000,no,https://github.com/metafizzy/fizzy-ui-utils,
+47,Yoast WordPress SEO Plugin,['WordPress Plugins'],"Functionality that helps you optimize your pages content, images titles, meta descriptions and more.",widgets,1520550000000,1634626800000,no,https://yoast.com/wordpress/plugins/seo/,Yoast Plugins
+48,Really Simple Discovery,,"Really Simple Discovery is a way to help client software find the services needed to read, edit, or ""work with"" weblogging software.",feeds,1520550000000,1634626800000,no,http://cyber.law.harvard.edu/blogs/gems/tech/rsd.html,
+49,Enfold,['WordPress Theme'],Multi-purpose premium WordPress theme.,framework,1520550000000,1634626800000,no,http://themeforest.net/item/enfold-responsive-multipurpose-theme/4519990?ref=garazy,
+50,jQuery Masonry,['UI'],Masonry is a layout plugin for jQuery. Think of it as the flip side of CSS floats.,javascript,1520550000000,1625986800000,no,http://desandro.com/resources/jquery-masonry/,jQuery
+51,Packery,['UI'],Packery is a JavaScript layout library that uses a bin-packing algorithm.,javascript,1520550000000,1625986800000,no,http://packery.metafizzy.co/,
+52,RSS,,"A family of web feed formats used to publish frequently updated content such as blog entries, news headlines or podcasts.",feeds,1520550000000,1634626800000,no,http://en.wikipedia.org/wiki/RSS_(file_format),
+53,Froogaloop,,"Froogaloop is a small Javascript utility framework to help with the complexities
+involved in dealing with using the Javascript API through window.postMessage
+for controlling Vimeo's Moogaloop video player.",javascript,1520550000000,1625986800000,no,https://github.com/vimeo/froogaloop,
+54,Live Writer Support,,Windows Live Writer Tagging Support Schema,feeds,1520550000000,1634626800000,no,http://windowslivewriter.spaces.live.com,
+55,Twemoji,,Twitter Emoji for Everyone,widgets,1520550000000,1625986800000,no,https://github.com/twitter/twemoji,
+56,Magnific Popup,,Magnific Popup is a responsive lightbox & dialog script.,javascript,1520550000000,1634626800000,no,http://dimsemenov.com/plugins/magnific-popup/,
+57,MediaElement.js,['Video Players'],HTML5 audio and video players in pure HTML and CSS.,media,1520550000000,1634626800000,no,http://mediaelementjs.com/,
+58,Google Maps API,,Google Maps has a wide array of APIs that let you embed the functionality of Google Maps.,mapping,1520550000000,1583794800000,no,https://developers.google.com/maps/,
+59,Google Maps,['Maps'],Google maps embedded into the webpage.,mapping,1520550000000,1583794800000,no,http://www.google.com/apis/maps/,
+60,Wordpress 4.9,,WordPress version 4.9.*,cms,1520550000000,1548025200000,no,http://codex.wordpress.org/Version_4.9,WordPress
+61,Pingback Support,,"A Pingback is one of three types of Linkbacks, methods for Web authors to request notification when somebody links to one of their documents.",feeds,1520550000000,1634626800000,no,http://en.wikipedia.org/wiki/Pingback,
+62,Sitelinks Search Box,['Site Search'],"With Google sitelinks search box, people can reach your content more quickly from search results.",widgets,1520550000000,1634626800000,no,https://developers.google.com/webmasters/richsnippets/sitelinkssearch?utm_source=wmc-blog&utm_medium=direct-referral&utm_campaign=sitelinks-searchbox,
+63,Yoast SEO Premium,['WordPress Plugins'],Premium version of the Yoast WordPress Plugin.,widgets,1520550000000,1634626800000,yes,https://yoast.com/wordpress/plugins/seo-premium/,Yoast WordPress SEO Plugin
+64,Contact Form 7,['Feedback Forms and Surveys'],"Specifically designed for wordpress blogs. Contact Form 7 can manage multiple contact forms, plus you can customize the form and the mail contents flexibly with simple markup.",widgets,1520982000000,1634626800000,no,http://wordpress.org/extend/plugins/contact-form-7/,
+65,jQuery Waypoints,,Waypoints is a small jQuery plugin that makes it easy to execute a function whenever you scroll to an element.,javascript,1520982000000,1585263600000,no,http://imakewebthings.github.com/jquery-waypoints/,jQuery
+66,IPhone / Mobile Compatible,,The website contains code that allows the page to support IPhone / Mobile Content.,mobile,1527894000000,1635490800000,no,http://apple.com,
+67,Wordpress Monthly Activity,['Blog'],The WordPress site has new blog activity on a monthly interval.,cms,1527894000000,1527894000000,no,http://wordpress.com,WordPress
+68,SSL by Default,,The website redirects traffic to an HTTPS/SSL version by default.,ssl,1529967600000,1634626800000,no,http://trends.builtwith.com/ssl,
+69,Facebook Conversion Tracking,['Conversion Optimization'],"Conversion tracking functionality from Facebook, allows a user to track advertisement clicks.",analytics,1532991600000,1635490800000,no,http://www.facebook.com/help/?page=994,
+70,Easy Facebook Like Box,['WordPress Plugins'],"Allows the display of fan pages, posts and like buttons.",widgets,1538694000000,1634626800000,no,https://wordpress.org/plugins/easy-facebook-likebox/,
+71,jQuery Cookie,['jQuery Plugin'],"A simple, lightweight jQuery plugin for reading, writing and deleting cookies.",javascript,1538694000000,1634626800000,no,https://github.com/carhartl/jquery-cookie,jQuery
+72,Babel,['Framework'],Babel is a JavaScript compiler.,javascript,1544050800000,1603436400000,no,https://babeljs.io/,
+73,core-js,['Framework'],Modular standard library for JavaScript.,javascript,1544050800000,1632553200000,no,https://github.com/zloirock/core-js,
+74,UbiquiTLS,,90 day free SSL certificate.,ssl,1547766000000,1552431600000,no,https://servertastic.com,
+75,Wordpress 5.1,,Wordpress version 5.1.*,cms,1552431600000,1634626800000,no,https://make.wordpress.org/core/5-1/,WordPress
+76,Pixel Cat,,Facebook pixel management for Wordpress formerly Facebook Conversion Pixel.,widgets,1552431600000,1618383600000,no,https://wordpress.org/plugins/facebook-conversion-pixel/,
+77,Nginx 1.14,,Nginx version 1.14.*,Web Server,1552431600000,1552431600000,no,http://nginx.org/en/CHANGES-1.14,nginx
+78,GlobalSign Domain Verification,,Domain verification for SSL certificate validation.,framework,1553209200000,1635490800000,no,https://support.globalsign.com/customer/portal/articles/2167245-performing-domain-verification---dns-txt-record,
+79,Incapsula,['US hosting'],Security performance and CDN optimizer tools,hosting,1553209200000,1557615600000,no,http://incapsula.com,
+80,GlobalSign,['Root Authority'],Certificate provided by GlobalSign.,ssl,1553209200000,1557615600000,no,http://globalsign.com,
+81,WP Super Cache,['WordPress Plugins'],WP Super Cache is a page cache generation tool for WordPress.,widgets,1559430000000,1618383600000,no,http://wordpress.org/extend/plugins/wp-super-cache/,
+82,Sectigo SSL,,SSL from Sectigo formerly Comodo.,ssl,1561330800000,1585263600000,no,https://sectigo.com,
+83,Sectigo Domain SSL,,SSL registration with Sectigo (formerly Comodo CA).,ssl,1561330800000,1585263600000,no,https://sectigo.com,Sectigo SSL
+84,Nginx 1.16,,Nginx version 1.16.*,Web Server,1568156400000,1578006000000,no,https://nginx.org/en/CHANGES-1.16,nginx
+85,Apache,,Apache has been the most popular web server on the Internet since April 1996.,Web Server,1580079600000,1634626800000,no,http://httpd.apache.org/,
+86,Ruby on Rails Token,,Ruby on Rails is an open-source web framework that is optimized for programmer happiness and sustainable productivity. Note that Ruby on Rails has two detection techniques and this is one of them.,framework,1589497200000,1635490800000,no,http://www.rubyonrails.org/,
+87,CloudFront,,"Amazon CloudFront is a web service for content delivery. It integrates with other Amazon Web Services to give developers and businesses an easy way to distribute content to end users with low latency, high data transfer speeds, and no commitments.",cdn,1589497200000,1635490800000,no,http://aws.amazon.com/cloudfront/,
+88,Google Plus One Platform,,Google+ API functionality.,widgets,1589497200000,1635490800000,no,https://developers.google.com/+/,
+89,Google Analytics Anonymize IP,,Tell Google Analytics to anonymize the information sent by the tracker objects by removing the last octet of the IP address prior to its storage.,analytics,1589497200000,1635490800000,no,http://code.google.com/apis/analytics/docs/gaJS/gaJSApi_gat.html,Google Analytics
+90,AJAX Libraries API,,"The AJAX Libraries API is a content distribution network and loading architecture for the most popular, open source JavaScript libraries.",cdn,1589497200000,1635490800000,no,http://code.google.com/apis/ajaxlibs/documentation/,
+91,Google API,,The website uses some form of Google APIs to provide interaction with the many API's Google Providers.,javascript,1589497200000,1635490800000,no,http://code.google.com,
+92,TurboLinks,,Turbolinks is a recompilation speed up tool for Ruby on Rails.,widgets,1589497200000,1614499200000,no,https://github.com/rails/turbolinks,
+93,Google Analytics,"['Application Performance', 'Audience Measurement', 'Visitor Count Tracking']",Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.,analytics,1589497200000,1635490800000,no,http://google.com/analytics,
+94,Google Analytics Classic,,Classic Google Analytics - sites that are using non-universal analytics code.,analytics,1589497200000,1635490800000,no,https://developers.google.com/analytics/devguides/collection/gajs/,Google Analytics
+95,Google Hosted Libraries,,"Google Hosted Libraries is a globally available content distribution network for the most popular, open-source JavaScript libraries.",javascript,1589497200000,1635490800000,no,https://developers.google.com/speed/libraries/,
+96,Google Hosted jQuery UI,,jQuery UI hosted at Google.,javascript,1589497200000,1635490800000,no,https://developers.google.com/speed/libraries/,Google Hosted Libraries
+97,jQuery UI,"['jQuery Plugin', 'UI']","jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",javascript,1589497200000,1635490800000,no,http://jqueryui.com/,jQuery
+98,Google Webmaster,,Webmaster tools provide you with a free and easy way to make your site more Google-friendly.,Web Master,1589497200000,1635490800000,no,http://www.google.com/webmasters/,
+99,NationBuilder,['Community CMS'],Community Organizing System - both a website and a people database.,cms,1589497200000,1635490800000,yes,http://nationbuilder.com,
+100,Twitter Platform,,The page embeds the Twitter platform in one method or another.,javascript,1589497200000,1635490800000,no,http://twitter.com/about/resources,
+101,es6 promise,,A polyfill for ES6-style Promises.,javascript,1589497200000,1625986800000,no,https://github.com/stefanpenner/es6-promise,
+102,Rack Cache,,Rack::Cache is a component to enable HTTP caching for Rack-based applications such as Rails.,Web Server,1589497200000,1635490800000,no,http://rtomayko.github.com/rack-cache/,
+103,Copyright Year 2019,,Webpage has a copyright year of 2019 with no detectable mention of the current year.,copyright,1589497200000,1635490800000,no,https://en.wikipedia.org/wiki/Copyright,
+104,LetsEncrypt,['Root Authority'],Let’s Encrypt is a free open Certificate Authority.,ssl,1589497200000,1634626800000,no,https://letsencrypt.org,
+105,Akamai Hosted,['US hosting'],Data network CDN provider.,hosting,1589497200000,1611734400000,no,http://akamai.com,
+106,Content Delivery Network,,This page contains links that give the impression that some of the site contents are stored on a content delivery network.,CDN,1592002800000,1634626800000,no,http://en.wikipedia.org/wiki/Content_Delivery_Network,
+107,Tiny MCE,,TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor control released as Open Source under LGPL by Moxiecode Systems AB.,widgets,1592002800000,1592002800000,no,http://tinymce.moxiecode.com/,
+108,Nationbuilder Link,,Community management platform.,link,1592002800000,1592002800000,no,http://nationbuilder.com,
+109,TinyMCE,,TinyMCE editor.,widgets,1591052400000,1593673200000,no,https://github.com/tinymce/tinymce-dist,
+110,Ruby on Rails,,Ruby on Rails is an open-source web framework that is optimized for programmer happiness and sustainable productivity.,framework,1591052400000,1633158000000,no,http://www.rubyonrails.org/,
+111,Facebook Login,['Login'],A way for users to log into your app using Facebook.,widgets,1598425200000,1625986800000,no,https://developers.facebook.com/docs/facebook-login/,
+112,Ruby,['Live Chat'],Live virtual receptionists and chat specialists.,widgets,1609574400000,1633158000000,yes,https://www.ruby.com/,
+113,Cloudflare,,Automatically optimizes the delivery of your web pages so your visitors get the fastest page load times and best performance.,cdn,1612252800000,1635490800000,no,http://www.cloudflare.com/,
+114,Events Page,,"The website contains a link to an ""Events"" or ""Calendar"" page.",link,1616223600000,1635490800000,no,https://kb.builtwith.com/special-reports/link-tracking/,
+115,Members Page,,The website contains a link to a members page or a members portal type or a membership page.,link,1616223600000,1635490800000,no,https://kb.builtwith.com/special-reports/link-tracking/,
+116,Cloudflare SSL,,SSL solutions from Cloudflare,ssl,1616223600000,1635490800000,no,http://cloudflare.com,
+117,Cloudflare Hosting,"['US hosting', 'Cloud Hosting', 'Cloud PaaS']",Supercharged web hosting service.,hosting,1615104000000,1633935600000,no,http://cloudflare.com,
+118,Facebook Domain Verification,,Domain Verification provides a way for you to claim ownership of your domain in Facebook Business Manager.,framework,1623826800000,1635490800000,no,https://developers.facebook.com/docs/sharing/domain-verification/,
+119,lodash,['JavaScript Library'],Lo-dash is an alternative and a drop-in replacement for Underscore.js.,javascript,1625209200000,1633158000000,no,http://lodash.com/,
+120,KnowBe4,['Fraud Prevention'],Security awareness system.,analytics,1627714800000,1635490800000,maybe,https://www.knowbe4.com/,

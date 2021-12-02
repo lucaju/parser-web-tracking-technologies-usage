@@ -16,7 +16,7 @@ const initiate = async () => {
 
   //loop throght files
   for (const file of jsonFiles) {
-    console.log(`${chalk.blue('File: ')} 'liberal-uk.json'`);
+    console.log(`${chalk.blue('File: ')} ${file}`);
     const data = await loadData(`${dataSource}/${file}`);
 
     console.log(chalk.blue('Parsing...'));

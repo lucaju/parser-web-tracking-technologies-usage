@@ -28,12 +28,8 @@ const initiate = async () => {
     result = [...result, ...parsedContent];
   }
 
-  //add header
-  const header =
-    'uid,filename,id,Name,Categories,Description,Tag,FirstDetected,LastDetected,IsPremium,Link,Parent';
-  result.unshift(header.split(','));
-
   //save
+  // console.log(result);
   await saveCSV(result);
 
   console.log(chalk.magenta('\nDone'));
@@ -47,14 +43,44 @@ const parse = (filename, data) => {
   //remove empty lines
   data = data.filter((row) => row.length > 1);
 
+  const country = filename.split('_')[0].replace('-', ' ');
+    console.log(country)
+
+  const list = [];
+
   //add file name and uid
   data.forEach((row, index) => {
-    row.unshift(filename);
-    row.unshift(uid);
+
+    const duration = Number(row[6]) - Number(row[5]);
+    const firstDetectedDate = new Date(Number(row[5]));
+    const lastDetectedDate = new Date(Number(row[6]));
+    
+    
+    const item = {
+      uid,
+      filename,
+      country,
+      id: Number(row[0]),
+      name: row[1],
+      categories: row[2],
+      description: row[3],
+      tag: row[4],
+      isPremium: row[7],
+      link: row[8],
+      parent: row[9],
+      firstDetectedTimestamp: Number(row[5]),
+      lastDetectedTimestamp: Number(row[6]),
+      duration,
+      firstDetectedDate,
+      lastDetectedDate,
+    }
+
+    list.push(item)
+    
     uid++;
   });
 
-  return data;
+  return list;
 };
 
 const convertToJson = async (path) => {

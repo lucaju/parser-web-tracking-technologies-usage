@@ -5,6 +5,8 @@ const path = require('path');
 
 let uid = 0;
 
+let categories = [];
+
 const initiate = async () => {
   console.log('\n------------');
   console.log(chalk.magenta('Initiating\n'));
@@ -17,6 +19,7 @@ const initiate = async () => {
 
   let result = [];
 
+
   //loop throght files
   for (const filename of csfFiles) {
     console.log(`${chalk.blue('File: ')} ${filename}`);
@@ -28,9 +31,16 @@ const initiate = async () => {
     result = [...result, ...parsedContent];
   }
 
+  await saveCSV(categories, 'categories', true);
+  // const cats = [...new Set(categories)]
+  // cats.sort();
+  // console.log(cats)
+  // // console.log(cats)
+  // console.log(categories.length, cats.length)
+
   //save
   // console.log(result);
-  await saveCSV(result);
+  await saveCSV(result, 'merged_csv');
 
   console.log(chalk.magenta('\nDone'));
   console.log('------------\n');
@@ -44,7 +54,6 @@ const parse = (filename, data) => {
   data = data.filter((row) => row.length > 1);
 
   const country = filename.split('_')[0].replace('-', ' ');
-    console.log(country)
 
   const list = [];
 
@@ -54,8 +63,17 @@ const parse = (filename, data) => {
     const duration = Number(row[6]) - Number(row[5]);
     const firstDetectedDate = new Date(Number(row[5]));
     const lastDetectedDate = new Date(Number(row[6]));
+
+    // console.log(row[3])
+    if (row[2] !== '') {
+      // const cat = typeof row[3] === 'string' ? [row[2]] : JSON.parse(row[2]);
+      const categoriesJson = row[2].replaceAll("'", '"')
+      const cats = JSON.parse(categoriesJson);
+      // console.log(cats)
+      categories.push(...cats)
+    }
     
-    
+  
     const item = {
       uid,
       filename,
@@ -92,14 +110,16 @@ const convertToJson = async (path) => {
   });
 };
 
-const saveCSV = async (data) => {
+const saveCSV = async (data, filename, isCSV) => {
+  if (!data || !filename) return;
+
   console.log(chalk.blue('\nSaving CSV file'));
 
   const folder = path.join(__dirname, 'results');
-  const fileName = 'merged_csv.csv';
+  const fileName = `${filename}.csv`;
 
   //tranform
-  const csv = Papa.unparse(data, { delimiter: ',' });
+  const csv = isCSV ? data.join('\n') : Papa.unparse(data, { delimiter: ',' });
 
   //save csv file
   if (!fs.existsSync(folder)) fs.mkdirSync(folder);
